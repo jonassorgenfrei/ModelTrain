@@ -1,0 +1,98 @@
+20160509.190736.855 g9999I scriptpl OScript  0522 Script player started.
+--------------------------------------------------
+                                            lll   
+                                        iii lll   
+                                            lll   
+ rrrrrr   ooooo   ccccc rrrrrr   aaaaaa iii lll   
+ rrr rrr ooo ooo ccc    rrr rrr aaa aaa iii lll   
+ rrr     ooo ooo ccc    rrr     aaa aaa iii lll   
+ rrr      ooooo   ccccc rrr      aaaaaa iii  lll  
+--------------------------------------------------
+ TM and Copyright 2002-2016 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   http://www.rocrail.net
+--------------------------------------------------
+20160509.190736.962 g9999I main     app      0880  pwd = [/home/eisenbahn/rocrail]
+20160509.190736.962 g9999I main     app      0882  command line arg0 = [/opt/rocrail/rocview]
+20160509.190736.963 g9999I main     app      0882  command line arg1 = [-sp]
+20160509.190736.963 g9999I main     app      0882  command line arg2 = [/opt/rocrail]
+20160509.190736.963 g9999I main     app      0886  Rocrail 11145 [57e7bd6f17cca02301610b828ac0d4787d7bef68]
+20160509.190736.963 g9999I main     app      0887  build May  6 2016 11:23:45
+20160509.190736.963 g9999I main     app      0911 Creating Frame...
+20160509.190736.966 g9999I main     OSystem  0545 no key
+20160509.190737.003 g9999I main     frame    5475 wxSizeEvent
+20160509.190737.004 g9999I main     frame    2205 m_ThemePath=0x00000000
+20160509.190737.004 g9999I main     frame    2206 m_ServerPath=0x031A1610
+20160509.190737.004 g9999I main     frame    2207 init Frame...
+20160509.190737.129 g9999I main     frame    2675 wxWidgets 3
+20160509.190737.144 g9999I main     svg      0313 scanning svg/themes/SpDrS60
+20160509.190737.144 g9999I main     svg      0317 symbol map created
+20160509.190737.337 g9999I main     svg      0313 scanning .
+20160509.190737.337 g9999I main     svg      0313 scanning .
+20160509.190737.337 g9999I main     svg      0313 scanning .
+20160509.190737.337 g9999I main     svg      0313 scanning .
+20160509.190737.359 g9999I main     frame    2887 Creating PlanPanel...
+20160509.190737.380 g9999I main     frame    2988 Creating LocPanel...
+20160509.190737.382 g9999I main     slider   0070 Height=106 Step=0.900000 ThumbPos=90 ThumbRange=90
+20160509.190737.382 g9999I tick16DA OSystem  0101 Ticker thread has started.
+20160509.190737.383 g9999I main     lc       1136 creating clock...
+20160509.190737.383 g9999I main     clock    0092 clock instantiated
+20160509.190737.384 g9999I main     frame    3008 Creating PT Panel...
+20160509.190737.385 g9999I main     cv       1191 CreateControls...
+20160509.190737.499 g9999I main     lc       0649 event for LC [3009]
+20160509.190737.529 g9999I main     cv       1194 initLabels...
+20160509.190737.530 g9999I main     cv       0101 m_CVall[0]=1
+20160509.190737.530 g9999I main     cv       0101 m_CVall[1]=2
+20160509.190737.530 g9999I main     cv       0101 m_CVall[2]=3
+20160509.190737.530 g9999I main     cv       0101 m_CVall[3]=4
+20160509.190737.530 g9999I main     cv       0101 m_CVall[4]=5
+20160509.190737.530 g9999I main     cv       0101 m_CVall[5]=6
+20160509.190737.530 g9999I main     cv       0101 m_CVall[6]=17
+20160509.190737.530 g9999I main     cv       0101 m_CVall[7]=18
+20160509.190737.530 g9999I main     cv       0101 m_CVall[8]=29
+20160509.190737.554 g9999I main     frame    3017 Creating LNCV Panel...
+20160509.190737.555 g9999I main     lncv     0039 init
+20160509.190737.555 g9999I main     lncv     0041 Create
+20160509.190737.575 g9999I main     lncv     0043 ready
+20160509.190737.575 g9999I main     OSystem  0545 no key
+20160509.190737.575 g9999I main     frame    3038 Creating PlanNotebook...
+20160509.190737.576 g9999I main     frame    3046 Creating Serverpanel...
+20160509.190737.584 g9999I main     frame    3064 Creating Controllerpanel...
+20160509.190737.589 g9999I main     frame    3113 Show...
+20160509.190737.589 g9999I main     app      0932 control code  slave code 
+20160509.190737.628 g9999I main     frame    5475 wxSizeEvent
+20160509.190737.645 g9999I donkeyth conthrea 0417 donkeyThread
+20160509.190737.645 g9999I conthrea conthrea 0431 conThread started
+20160509.190737.694 g9999I main     frame    5475 wxSizeEvent
+20160509.190737.756 g9999I conthrea conthrea 0449 Try[1] connecting to rocrail at localhost:8051...
+20160509.190737.756 g9999I conthrea conthrea 0451 1
+20160509.190737.756 g9999I conthrea conthrea 0455 2
+20160509.190737.756 g9999I conthrea conthrea 0460 3
+20160509.190737.757 g9999I conthrea conthrea 0462 4
+20160509.190737.757 g9999I conthrea conthrea 0474 5
+20160509.190737.773 g9999W conthrea OSocket  0170 rocs_socket_mac( eth0 ): rc = -1, errno = 19
+20160509.190737.793 g9999W conthrea OSocket  0170 rocs_socket_mac( eth0 ): rc = -1, errno = 19
+20160509.190737.794 g9999I conthrea conthrea 0520 conThread ended
+20160509.190738.765 g9999I iReader  app      1092 console mode is on
+20160509.190738.766 g9999I iReader  app      1003 guiApp->setModel( plan )
+20160509.190738.766 g9999I iReader  app      1009 isModelSet=0 stayOffline=0
+20160509.190738.766 g9999I main     frame    5806 new state 0x0000 (consolemode)
+20160509.190738.819 g9999I main     plan     0341 panel cx=64 cy=48
+20160509.190738.820 g9999I main     plan     0345 starting timer...
+20160509.190738.820 g9999I main     plan     0892 scroll cx=64 cy=48
+20160509.190738.820 g9999I main     frame    0904 Adding level Level 0 (0,0)
+20160509.190738.823 g9999I main     frame    0960 select changed from -1 to 0
+20160509.190738.823 g9999I main     frame    0966 selecting 0
+20160509.190738.824 g9999I conthrea plan     2411 initRunner() 0x16B7CD10
+20160509.190738.824 g9999I conthrea plan     2368 Title = New Plan
+20160509.190738.824 g9999I conthrea plan     2369 Level = 0(0)
+20160509.190738.824 g9999I conthrea plan     2404 initPlan() READY
+20160509.190738.866 g9999I iReader  app      1029 get the rocrail.ini...
+20160509.190740.146 g9999I main     OSystem  0545 no key
+20160509.190740.198 g9999I main     donkey   0114 init values...
+20160509.190740.198 g9999I main     OSystem  0545 no key
+20160509.190740.205 g9999I main     frame    4827 key is expired
+20160509.190744.360 g9999I main     frame    5475 wxSizeEvent
+20160509.190744.412 g9999I main     frame    5475 wxSizeEvent
+20160509.191017.732 g9999I main     frame    5370 shutting down...

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plan rocrailversion="2.0-11145" rocrailpwd="/home/eisenbahn/rocrail" donkey="false" healthy="true" title="Wiesengrund" rocguiversion="2.0.999 revision 11145">
+  <zlevel title="Level 0" active="true"/>
+  <boosterlist/>
+  <lightctrl/>
+</plan>

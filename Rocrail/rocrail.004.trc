@@ -1,0 +1,215 @@
+---------------------------------------------------
+ RRRRRR                                      lll   
+ RRR  RRR                                iii lll   
+ RRR  RRR                                    lll   
+ RRRRRR    ooooo   ccccc rrrrrr   aaaaaa iii lll   
+ RRR RRR  ooo ooo ccc    rrr rrr aaa aaa iii lll   
+ RRR  RRR ooo ooo ccc    rrr     aaa aaa iii lll   
+ RRR  RRR  ooooo   ccccc rrr      aaaaaa iii  lll  
+---------------------------------------------------
+ TM and Copyright 2002-2024 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   https://wiki.rocrail.net
+---------------------------------------------------
+ No SupportKey
+---------------------------------------------------
+ Rocrail Basic 2.1.4391 []:[Mar 31 2024]
+---------------------------------------------------
+ processid = 12968
+        ip = 
+       pwd = C:\Users\Jürgen\Documents\Rocrail
+      args = OCmdLn: key=-l value=C:\Program Files\Rocrail\bin, key=-w value=C:\Users\Jürgen\Documents\Rocrail, key=-lic value=C:\Program Files\Rocrail\lic.dat, 
+--------------------------------------------------
+20240511.200619.635 r9999I main     OApp     1244 dpIID = []
+20240511.200619.635 r9999I main     OApp     1245 ptIID = []
+20240511.200619.635 r9999I main     OApp     1246 svIID = []
+20240511.200619.635 r9999I main     OApp     1247 lcIID = []
+20240511.200619.635 r9999I main     OModel   0483 parsing [plan.xml]...
+20240511.200619.635 r9999I main     OModel   0501 parsePlan file: plan.xml
+20240511.200619.651 r9999I main     OModel   0554 parsePlan title: Wiesengrund
+20240511.200619.651 r9999I main     OModel   5581 init clearingMaps...
+20240511.200619.651 r9999I main     OModel   5613 init creatingMaps...
+20240511.200619.651 r9999I main     OModel   3531 createFbAddrMap: size=0.
+20240511.200619.666 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Dampf_78355]
+20240511.200619.666 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Dampf_78355]
+20240511.200619.666 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240511.200619.666 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240511.200619.666 r9999I 00001F7C OLcDrive 1018 LcDriver 2.1.0 loaded for Dampf_78355
+20240511.200619.666 r9999I tick03B4 OSystem  0105 Ticker thread has started.
+20240511.200619.666 r9999I main     OLoc     6156 show loco [Dampf_78355]
+20240511.200619.666 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Dampf_Gr_41334]
+20240511.200619.666 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Dampf_Gr_41334]
+20240511.200619.666 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240511.200619.666 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240511.200619.666 r9999I 00001F7C OLcDrive 1018 LcDriver 2.1.0 loaded for Dampf_Gr_41334
+20240511.200619.666 r9999I main     OLoc     6156 show loco [Dampf_Gr_41334]
+20240511.200619.666 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Diesel_220012-9]
+20240511.200619.666 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Diesel_220012-9]
+20240511.200619.666 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240511.200619.666 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240511.200619.666 r9999I 00001F7C OLcDrive 1018 LcDriver 2.1.0 loaded for Diesel_220012-9
+20240511.200619.666 r9999I main     OLoc     6156 show loco [Diesel_220012-9]
+20240511.200619.666 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Diesel_212225-7]
+20240511.200619.666 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Diesel_212225-7]
+20240511.200619.666 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240511.200619.666 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240511.200619.682 r9999I 00001F7C OLcDrive 1018 LcDriver 2.1.0 loaded for Diesel_212225-7
+20240511.200619.682 r9999I main     OLoc     6156 show loco [Diesel_212225-7]
+20240511.200619.682 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [ICE_402022-8]
+20240511.200619.682 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [ICE_402022-8]
+20240511.200619.682 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240511.200619.682 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240511.200619.682 r9999I 00001F7C OLcDrive 1018 LcDriver 2.1.0 loaded for ICE_402022-8
+20240511.200619.682 r9999I main     OLoc     6156 show loco [ICE_402022-8]
+20240511.200619.682 r9999I main     OModel   3553 createSwAddrMap: size=26.
+20240511.200619.682 r9999I main     OModel   3574 createCoAddrMap: size=0.
+20240511.200619.682 r9999I main     OControl 2537 initDigInts lib=[rcan] iid=[GC1e]
+ No SupportKey
+20240511.200619.682 r9999I main     OApp     0310 No valid support key found: 0 days expired.
+20240511.200620.151 r9999I timedoff OModel   2413 timed off thread started
+20240511.200620.182 r9999I Dampf_78 OLoc     3012 Runner for "Dampf_78355" started.
+20240511.200620.182 r9999I Diesel_2 OLoc     3012 Runner for "Diesel_220012-9" started.
+20240511.200620.182 r9999I Dampf_Gr OLoc     3012 Runner for "Dampf_Gr_41334" started.
+20240511.200620.198 r9999I ICE_4020 OLoc     3012 Runner for "ICE_402022-8" started.
+20240511.200620.198 r9999I Diesel_2 OLoc     3012 Runner for "Diesel_212225-7" started.
+20240511.200620.651 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\rcan.dll]
+20240511.200620.651 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\rcan.dll:rocGetDigInt]
+20240511.200620.651 r9999I 00001F7C ORCAN    0611 ----------------------------------------
+20240511.200620.651 r9999I tick03B4 OSystem  0105 Ticker thread has started.
+20240511.200620.651 r9999I 00001F7C ORCAN    0612 RCAN 2.1.0
+20240511.200620.651 r9999I 00001F7C ORCAN    0613 ----------------------------------------
+20240511.200620.651 r9999I 00001F7C ORCAN    0614 iid            = GC1e
+20240511.200620.651 r9999I 00001F7C ORCAN    0615 canid          = 11
+20240511.200620.651 r9999I 00001F7C ORCAN    0616 sublib         = tcp
+20240511.200620.651 r9999I 00001F7C ORCAN    0617 protocol       = CBUS
+20240511.200620.651 r9999I 00001F7C ORCAN    0626 fast clock     = yes
+20240511.200620.651 r9999I 00001F7C ORCAN    0627 SoD address    = 0
+20240511.200620.651 r9999I 00001F7C ORCAN    0628 short events   = yes
+20240511.200620.651 r9999I 00001F7C ORCAN    0629 slot server    = no
+20240511.200620.651 r9999I 00001F7C ORCAN    0630 switchtime     = 250
+20240511.200620.651 r9999I 00001F7C ORCAN    0631 purgetime      = 10
+20240511.200620.651 r9999I 00001F7C ORCAN    0632 check decoders = no
+20240511.200620.651 r9999I 00001F7C ORCAN    0633 heart beat     = no:4712
+20240511.200620.651 r9999I 00001F7C ORCAN    0636 ----------------------------------------
+20240511.200620.651 r9999I 00001F7C ORCAN    0080 host        = 192.168.178.200
+20240511.200620.651 r9999I 00001F7C ORCAN    0081 port        = 5550
+20240511.200620.651 r9999I 00001F7C ORCAN    0082 type        = ASCII
+20240511.200620.651 r9999I 00001F7C ORCAN    0083 command ack = no
+20240511.200620.651 r9999I 00001F7C ORCAN    0084 ----------------------------------------
+20240511.200620.651 r9999I rcanread ORCAN    0254 reader started.
+20240511.200620.651 r9999I main     OControl 2603 send decoder list to digint...
+20240511.200620.651 r9999I rcanwrit ORCAN    0317 writer started.
+20240511.200620.651 r9999I rcanqueu CBUS     1113 timed queue started
+20240511.200620.651 r9999I keeper   CBUS     1060 keeper started.
+20240511.200620.651 r9999I main     OControl 2629 initDigInts OK
+20240511.200620.651 r9999I main     OPowerMa 0612 Power Manager instantiated.
+20240511.200620.651 r9999I main     OControl 0193 Init short circuit sensor...
+20240511.200620.651 r9999I clocktic OControl 2911 ClockTicker started.
+20240511.200620.651 r9999I checker  OControl 3003 switch position checker started
+20240511.200620.667 r9999I main     OModel   8775 loading occupancy file [occ.xml]
+20240511.200620.667 r9999I main     OModel   5656 init blocks...
+20240511.200620.667 r9999I main     OModel   5664 init seltabs...
+20240511.200620.667 r9999I main     OModel   5680 init stageblocks...
+20240511.200620.667 r9999I main     OModel   5696 init turntables...
+20240511.200620.667 r9999I main     OCompeti 0270 competition ready to go...
+20240511.200620.667 r9999I lightrun OLightCt 0182 light control started...
+20240511.200620.667 r9999I main     OClntCon 1042 ClientConnection started on port 8051.
+20240511.200620.667 r9999I cconmngr OClntCon 0515 Manager started.
+20240511.200620.667 r9999I broadcas OClntCon 0694 Broadcaster started.
+20240511.200620.667 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\rocabox.dll]
+20240511.200620.667 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\rocabox.dll:getArchiveBox]
+ No SupportKey
+20240511.200620.667 r9999I 00001F7C OArchive 0557 ------------------------------------------------------------
+20240511.200620.667 r9999I 00001F7C OArchive 0558 @Box
+20240511.200620.667 r9999I 00001F7C OArchive 0559   home     = [abox]
+20240511.200620.667 r9999I 00001F7C OArchive 0560   readonly = [true]
+20240511.200620.667 r9999I 00001F7C OArchive 0561   Copyright (c) 2002-2024 Robert Jan Versluis, Rocrail.net
+20240511.200620.667 r9999I 00001F7C OArchive 0562   All rights reserved.
+20240511.200620.667 r9999I 00001F7C OArchive 0563 ------------------------------------------------------------
+20240511.200620.667 r9999I 00001F7C OArchive 0450 read ini [abox\rocabox.ini]
+20240511.200620.682 r9999I rcantcpw rcantcp  0037 cbus tcp watchdog started
+20240511.200620.682 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200620.682 r9999I 00001F7C OArchive 0468 categories = []
+20240511.200620.682 r9999I main     OApp     1664 POWER ON
+20240511.200620.682 r9999c 00001F7C CBUS     1346 request power ON
+20240511.200620.682 r9999a main     OModel   2738 sys: go
+20240511.200620.682 r9999I main     OModel   2787 informing 6 listeners of a system event name=sys val=go...
+20240511.200620.682 r9999a main     OLoc     0928 event for loco Dampf_78355: sys
+20240511.200620.682 r9999a main     OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240511.200620.682 r9999a main     OLoc     0928 event for loco Diesel_220012-9: sys
+20240511.200620.682 r9999a main     OLoc     0928 event for loco Diesel_212225-7: sys
+20240511.200620.682 r9999a main     OLoc     0928 event for loco ICE_402022-8: sys
+20240511.200620.682 r9999a main     OWeather 0117 event for weather : sys go
+20240511.200620.682 r9999I main     OModel   2393 Checking all Loco's for V=0...
+20240511.200620.776 r9999I main     OModel   5315 init Track Driver blocks...
+20240511.200620.776 r9999I main     OModel   0764 updateFB
+20240511.200620.776 r9999I main     OModel   0769 update Boosters...
+20240511.200620.823 r9999I cconmngr OClntCon 0540 client connect count: 1
+20240511.200620.823 r9999I cmdr03B4 OClntCon 0319 cmdReader started for:127.0.0.1.
+20240511.200620.823 r9999I infw03B4 OClntCon 0126 infoWriter started for:127.0.0.1.
+20240511.200621.670 r9999I 000033F0 CBUS     1282 fast clock sync 20:06 wday=6 divider=1 date=11-5 temp=20
+20240511.200621.686 r9999I makeWeat OWeather 0941 make weather started for [none]...
+20240511.200621.826 r9999a cmdr03B4 OModel   2738 model: themes
+20240511.200621.842 r9999I cmdr03B4 OClntCon 0419 monitoring for client is on
+20240511.200621.842 r9999I cmdr03B4 OClntCon 0435 client has control access
+20240511.200621.842 r9999a cmdr03B4 OModel   2738 model: plan
+20240511.200621.842 r9999I cmdr03B4 OSocket  0925 address 0 = 192.168.178.1
+ No SupportKey
+20240511.200621.842 r9999I cmdr03B4 OModel   3060 no valid support key found
+20240511.200622.311 r9999I cmdr03B4 OControl 1931 provide Rocrail properties: COM1,COM4
+20240511.200622.342 r9999a cmdr03B4 OModel   2738 model: fstat
+20240511.200622.342 r9999I cmdr03B4 OModel   3346 Sending 0 fstats to client...
+20240511.200622.404 r9999a cmdr03B4 OModel   2738 model: fstat
+20240511.200622.404 r9999I cmdr03B4 OModel   3346 Sending 0 fstats to client...
+20240511.200625.583 r9999I rcansod  ORCAN    0228 SoD started
+20240511.200625.677 r9999I wiodec   OWIO     1916 WIO watchdog did start
+20240511.200626.600 r9999I rcansod  CBUS     1033 SoD: query input state by addr=0
+20240511.200627.116 r9999I rcansod  CBUS     1044 SoD: query CS state
+20240511.200627.116 r9999I rcansod  ORCAN    0245 SoD ended
+20240511.200641.736 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200641.736 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200642.754 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200700.765 r9999I 000033F0 CBUS     1282 fast clock sync 20:07 wday=6 divider=1 date=11-5 temp=20
+20240511.200703.770 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200703.770 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200704.788 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200725.841 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200725.841 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200726.858 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200747.908 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200747.908 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200748.925 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200800.884 r9999I 000033F0 CBUS     1282 fast clock sync 20:08 wday=6 divider=1 date=11-5 temp=20
+20240511.200809.963 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200809.963 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200810.981 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200832.022 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200832.022 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200833.039 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200854.077 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200854.077 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200855.094 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200901.010 r9999I 000033F0 CBUS     1282 fast clock sync 20:09 wday=6 divider=1 date=11-5 temp=20
+20240511.200916.117 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200916.117 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200917.134 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.200938.170 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.200938.170 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.200939.175 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.201000.199 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.201000.199 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.201001.139 r9999I 000033F0 CBUS     1282 fast clock sync 20:10 wday=6 divider=1 date=11-5 temp=20
+20240511.201001.217 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.201022.270 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.201022.270 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.201023.287 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.201044.309 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.201044.309 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.201045.326 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.201101.260 r9999I 000033F0 CBUS     1282 fast clock sync 20:11 wday=6 divider=1 date=11-5 temp=20
+20240511.201106.362 r9999E rcantcpw OSocket  0347 connect(192.168.178.200:5550) failed [10060]
+20240511.201106.362 r9999W rcantcpw rcantcp  0130 unable to connect to 192.168.178.200:5550; check the network...
+20240511.201107.379 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240511.201111.466 r9999a cmdr03B4 OModel   2738 model: plantitle
+20240511.201111.479 r9999I cmdr03B4 OModel   2926 save notes...

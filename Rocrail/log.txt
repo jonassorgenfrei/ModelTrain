@@ -1,0 +1,215 @@
+---------------------------------------------------
+ RRRRRR                                      lll
+ RRR  RRR                                iii lll
+ RRR  RRR                                    lll
+ RRRRRR    ooooo   ccccc rrrrrr   aaaaaa iii lll
+ RRR RRR  ooo ooo ccc    rrr rrr aaa aaa iii lll
+ RRR  RRR ooo ooo ccc    rrr     aaa aaa iii lll
+ RRR  RRR  ooooo   ccccc rrr      aaaaaa iii  lll
+---------------------------------------------------
+ TM and Copyright 2002-2023 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   https://wiki.rocrail.net
+---------------------------------------------------
+ Rocrail "Iron" 2.1.3134 [] [Apr 10 2023 08:15:48]
+---------------------------------------------------
+ processid = 12264
+        ip =
+       mac = D41B81D3B5800000
+      guid = D41B81D3B58020230410185742456000
+       pwd = C:\Users\J³rgen\Documents\Rocrail
+      args = OCmdLn: key=-l value=C:\Program Files\Rocrail\bin, key=-w value=C:\Users\J³rgen\Documents\Rocrail,
+--------------------------------------------------
+20230410.185742.487 r9999I main     OSystem  0612 no key
+************************************************************************
+* Rocrail runs entirely on volunteer labor.                            *
+* However, Rocrail also needs contributions of money.                  *
+* Your continued support is vital for keeping Rocrail available.       *
+* If you already did support you can ask a key: supportkey@rocrail.net *
+************************************************************************
+20230410.185742.487 r9999I main     OApp     1200 dpIID = []
+20230410.185742.487 r9999I main     OApp     1201 ptIID = []
+20230410.185742.487 r9999I main     OApp     1202 svIID = []
+20230410.185742.487 r9999I main     OApp     1203 lcIID = []
+20230410.185742.487 r9999I main     OModel   0483 parsePlan file: plan.xml
+20230410.185742.487 r9999I main     OModel   0536 parsePlan title: Wiesengrund
+20230410.185742.487 r9999I main     OModel   5246 init clearingMaps...
+20230410.185742.503 r9999I main     OModel   5278 init creatingMaps...
+20230410.185742.503 r9999I main     OModel   3288 createFbAddrMap: size=0.
+20230410.185742.503 r9999I main     OLoc     7317 no restore wanted: reset speed for loco [Dampf_Kl_89066]
+20230410.185742.503 r9999I main     OLoc     7321 no restore wanted: reset functions for loco [Dampf_Kl_89066]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20230410.185742.503 r9999I 00003830 OLcDrive 1014 LcDriver 2.1.0 loaded for Dampf_Kl_8906620230410.185742.503 r9999I tick03A3 OSystem  0104 Ticker thread has started.
+
+20230410.185742.503 r9999I main     OLoc     6004 show loco [Dampf_Kl_89066]
+20230410.185742.503 r9999I main     OLoc     7317 no restore wanted: reset speed for loco [Dampf_78355]
+20230410.185742.503 r9999I main     OLoc     7321 no restore wanted: reset functions for loco [Dampf_78355]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20230410.185742.503 r9999I 00003830 OLcDrive 1014 LcDriver 2.1.0 loaded for Dampf_78355
+20230410.185742.503 r9999I main     OLoc     6004 show loco [Dampf_78355]
+20230410.185742.503 r9999I main     OLoc     7317 no restore wanted: reset speed for loco [Dampf_Gr_41334]
+20230410.185742.503 r9999I main     OLoc     7321 no restore wanted: reset functions for loco [Dampf_Gr_41334]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20230410.185742.503 r9999I 00003830 OLcDrive 1014 LcDriver 2.1.0 loaded for Dampf_Gr_41334
+20230410.185742.503 r9999I main     OLoc     6004 show loco [Dampf_Gr_41334]
+20230410.185742.503 r9999I main     OLoc     7317 no restore wanted: reset speed for loco [Diesel_220012-9]
+20230410.185742.503 r9999I main     OLoc     7321 no restore wanted: reset functions for loco [Diesel_220012-9]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20230410.185742.503 r9999I 00003830 OLcDrive 1014 LcDriver 2.1.0 loaded for Diesel_220012-9
+20230410.185742.503 r9999I main     OLoc     6004 show loco [Diesel_220012-9]
+20230410.185742.503 r9999I main     OLoc     7317 no restore wanted: reset speed for loco [Diesel_212225-7]
+20230410.185742.503 r9999I main     OLoc     7321 no restore wanted: reset functions for loco [Diesel_212225-7]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20230410.185742.503 r9999I 00003830 OLcDrive 1014 LcDriver 2.1.0 loaded for Diesel_212225-7
+20230410.185742.503 r9999I main     OLoc     6004 show loco [Diesel_212225-7]
+20230410.185742.503 r9999I main     OLoc     7317 no restore wanted: reset speed for loco [ICE_402022-8]
+20230410.185742.503 r9999I main     OLoc     7321 no restore wanted: reset functions for loco [ICE_402022-8]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20230410.185742.503 r9999I 00003830 OLcDrive 1014 LcDriver 2.1.0 loaded for ICE_402022-8
+20230410.185742.503 r9999I main     OLoc     6004 show loco [ICE_402022-8]
+20230410.185742.503 r9999I main     OModel   3310 createSwAddrMap: size=26.
+20230410.185742.503 r9999I main     OModel   3331 createCoAddrMap: size=0.
+20230410.185742.503 r9999I main     OControl 2460 initDigInts lib=[rcan] iid=[GC1e]
+20230410.185742.503 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\rcan.dll]
+20230410.185742.503 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\rcan.dll:rocGetDigInt]
+20230410.185742.503 r9999I tick03A3 OSystem  0104 Ticker thread has started.
+20230410.185742.503 r9999I 00003830 ORCAN    0611 ----------------------------------------
+20230410.185742.503 r9999I 00003830 ORCAN    0612 RCAN 2.1.0
+20230410.185742.503 r9999I 00003830 ORCAN    0613 ----------------------------------------
+20230410.185742.503 r9999I 00003830 ORCAN    0614 iid            = GC1e
+20230410.185742.503 r9999I 00003830 ORCAN    0615 canid          = 1
+20230410.185742.503 r9999I 00003830 ORCAN    0616 sublib         = tcp
+20230410.185742.503 r9999I 00003830 ORCAN    0617 protocol       = CBUS
+20230410.185742.503 r9999I 00003830 ORCAN    0626 fast clock     = yes
+20230410.185742.503 r9999I 00003830 ORCAN    0627 SoD address    = 0
+20230410.185742.503 r9999I 00003830 ORCAN    0628 short events   = yes
+20230410.185742.503 r9999I 00003830 ORCAN    0629 slot server    = no
+20230410.185742.503 r9999I 00003830 ORCAN    0630 switchtime     = 250
+20230410.185742.503 r9999I 00003830 ORCAN    0631 purgetime      = 10
+20230410.185742.503 r9999I 00003830 ORCAN    0632 check decoders = no
+20230410.185742.503 r9999I 00003830 ORCAN    0633 heart beat     = no:4712
+20230410.185742.503 r9999I 00003830 ORCAN    0636 ----------------------------------------
+20230410.185742.503 r9999I 00003830 ORCAN    0080 host        = 192.168.178.200
+20230410.185742.503 r9999I 00003830 ORCAN    0081 port        = 5550
+20230410.185742.503 r9999I 00003830 ORCAN    0082 type        = ASCII
+20230410.185742.503 r9999I 00003830 ORCAN    0083 command ack = no
+20230410.185742.503 r9999I 00003830 ORCAN    0084 ----------------------------------------
+20230410.185742.503 r9999I rcanread ORCAN    0254 reader started.20230410.185742.503 r9999I rcanqueu CBUS     1104 timed queue started
+
+20230410.185742.503 r9999I rcanwrit ORCAN    0317 writer started.
+20230410.185742.503 r9999I main     OControl 2506 send loco list to digint...
+20230410.185742.503 r9999I keeper   CBUS     1051 keeper started.
+20230410.185742.518 r9999I main     OControl 2513 send switch list to digint...
+20230410.185742.518 r9999I main     OControl 2525 send decoder list to digint...
+20230410.185742.518 r9999I main     OControl 2551 initDigInts OK
+20230410.185742.518 r9999I main     OPowerMa 0609 Power Manager instantiated.
+20230410.185742.518 r9999I main     OControl 0192 Init short circuit sensor...
+20230410.185742.518 r9999I checker  OControl 2901 switch position checker started
+20230410.185742.518 r9999I clocktic OControl 2809 ClockTicker started.
+20230410.185742.518 r9999I main     OModel   8258 loading occupancy file [occ.xml]
+20230410.185742.518 r9999I main     OModel   5315 init blocks...
+20230410.185742.518 r9999I main     OModel   5323 init seltabs...
+20230410.185742.518 r9999I main     OModel   5339 init stageblocks...
+20230410.185742.518 r9999I main     OModel   5355 init turntables...
+20230410.185742.518 r9999I main     OCompeti 0270 competition ready to go...20230410.185742.518 r9999I lightrun OLightCt 0175 light control started...
+
+20230410.185742.518 r9999I main     OClntCon 1042 ClientConnection started on port 8051.
+20230410.185742.518 r9999I cconmngr OClntCon 0515 Manager started.
+20230410.185742.518 r9999I broadcas OClntCon 0694 Broadcaster started.
+20230410.185742.518 r9999I cconmngr OSocket  0433 allow all processes to use port 8051...
+20230410.185742.518 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\rocabox.dll]
+20230410.185742.518 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\rocabox.dll:getArchiveBox]
+20230410.185742.518 r9999I main     OSystem  0612 no key
+20230410.185742.518 r9999I 00003830 OArchive 0547 ------------------------------------------------------------
+20230410.185742.518 r9999I 00003830 OArchive 0548 @Box
+20230410.185742.518 r9999I 00003830 OArchive 0549   home     = [abox]
+20230410.185742.518 r9999I 00003830 OArchive 0550   readonly = [true]
+20230410.185742.518 r9999I 00003830 OArchive 0551   Copyright (c) 2002-2023 Robert Jan Versluis, Rocrail.net
+20230410.185742.518 r9999I 00003830 OArchive 0552   All rights reserved.
+20230410.185742.518 r9999I 00003830 OArchive 0553 ------------------------------------------------------------
+20230410.185742.518 r9999I 00003830 OArchive 0440 read ini [abox\rocabox.ini]
+20230410.185742.518 r9999I 00003830 OArchive 0458 categories = []
+20230410.185742.518 r9999I main     OApp     1621 POWER ON
+20230410.185742.518 r9999c 00003830 CBUS     1337 request power ON
+20230410.185742.518 r9999a main     OModel   2695 sys: go
+20230410.185742.518 r9999I main     OModel   2744 informing 7 listeners of a system event name=sys val=go...
+20230410.185742.518 r9999a main     OLoc     0919 event for loco Dampf_Kl_89066: sys
+20230410.185742.518 r9999a main     OLoc     0919 event for loco Dampf_78355: sys
+20230410.185742.518 r9999a main     OLoc     0919 event for loco Dampf_Gr_41334: sys
+20230410.185742.518 r9999a main     OLoc     0919 event for loco Diesel_220012-9: sys
+20230410.185742.518 r9999a main     OLoc     0919 event for loco Diesel_212225-7: sys
+20230410.185742.518 r9999a main     OLoc     0919 event for loco ICE_402022-8: sys
+20230410.185742.518 r9999a main     OWeather 0103 event for weather : sys go
+20230410.185742.518 r9999I main     OModel   2365 Checking all Loco's for V=0...
+20230410.185742.534 r9999I rcantcpw rcantcp  0037 cbus tcp watchdog started
+20230410.185742.534 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20230410.185742.534 r9999I rcantcpw rcantcp  0124 connected to 192.168.178.200:5550
+20230410.185742.628 r9999I main     OModel   4989 init Track Driver blocks...
+20230410.185742.628 r9999I main     OModel   0746 updateFB
+20230410.185742.628 r9999I main     OModel   0751 update Boosters...
+20230410.185742.862 r9999I cconmngr OClntCon 0540 client connect count: 1
+20230410.185742.862 r9999I cmdr03BF OClntCon 0319 cmdReader started for:127.0.0.1.
+20230410.185742.862 r9999I infw03BF OClntCon 0126 infoWriter started for:127.0.0.1.
+20230410.185743.003 r9999I timedoff OModel   2385 timed off thread started
+20230410.185743.018 r9999I Diesel_2 OLoc     2979 Runner for "Diesel_212225-7" started.
+20230410.185743.018 r9999I Dampf_78 OLoc     2979 Runner for "Dampf_78355" started.
+20230410.185743.018 r9999I Diesel_2 OLoc     2979 Runner for "Diesel_220012-9" started.
+20230410.185743.018 r9999I Dampf_Gr OLoc     2979 Runner for "Dampf_Gr_41334" started.
+20230410.185743.018 r9999I Dampf_Kl OLoc     2979 Runner for "Dampf_Kl_89066" started.
+20230410.185743.018 r9999I ICE_4020 OLoc     2979 Runner for "ICE_402022-8" started.
+20230410.185743.528 r9999I makeWeat OWeather 0869 make weather started for [none]...
+20230410.185743.528 r9999I rcansod  ORCAN    0228 SoD started
+20230410.185743.528 r9999I 00001380 CBUS     1273 fast clock sync 18:57 wday=1 divider=1 date=10-4 temp=20
+20230410.185743.528 r9999c rcanread ORCAN    0196 Ethernet status: rc=0 con=1 maxcanQ=0 maxethQ=0
+20230410.185743.872 r9999a cmdr03BF OModel   2695 model: themes
+20230410.185743.887 r9999I cmdr03BF OClntCon 0419 monitoring for client is on
+20230410.185743.887 r9999I cmdr03BF OClntCon 0435 client has control access
+20230410.185743.887 r9999a cmdr03BF OModel   2695 model: plan
+20230410.185743.887 r9999I cmdr03BF OSocket  0923 address 0 = 192.168.178.1
+20230410.185743.887 r9999I cmdr03BF OSystem  0612 no key
+20230410.185743.887 r9999I cmdr03BF OModel   3014 no valid support key found
+20230410.185744.247 r9999I cmdr03BF OControl 1880 provide Rocrail properties: COM1
+20230410.185744.278 r9999a cmdr03BF OModel   2695 model: fstat
+20230410.185744.278 r9999I cmdr03BF OModel   3115 Sending 0 fstats to client...
+20230410.185744.294 r9999a cmdr03BF OModel   2695 model: fstat
+20230410.185744.294 r9999I cmdr03BF OModel   3115 Sending 0 fstats to client...
+20230410.185744.544 r9999I rcansod  CBUS     1024 SoD: query input state by addr=0
+20230410.185745.057 r9999I rcansod  CBUS     1035 SoD: query CS state
+20230410.185745.057 r9999I rcansod  ORCAN    0245 SoD ended
+20230410.185746.055 r9999c 00003890 CBUS     1337 request power ON
+20230410.185746.055 r9999a cmdr03BF OModel   2695 sys: go
+20230410.185746.070 r9999I cmdr03BF OModel   2744 informing 7 listeners of a system event name=sys val=go...
+20230410.185746.070 r9999a cmdr03BF OLoc     0919 event for loco Dampf_Kl_89066: sys
+20230410.185746.070 r9999a cmdr03BF OLoc     0919 event for loco Dampf_78355: sys
+20230410.185746.070 r9999a cmdr03BF OLoc     0919 event for loco Dampf_Gr_41334: sys
+20230410.185746.070 r9999a cmdr03BF OLoc     0919 event for loco Diesel_220012-9: sys
+20230410.185746.070 r9999a cmdr03BF OLoc     0919 event for loco Diesel_212225-7: sys
+20230410.185746.070 r9999a cmdr03BF OLoc     0919 event for loco ICE_402022-8: sys
+20230410.185746.070 r9999a cmdr03BF OWeather 0103 event for weather : sys go
+20230410.185746.102 r9999c rcanread CBUS     0873 power ON
+20230410.185747.538 r9999I wiodec   OWIO     1627 WIO watchdog did start
+20230410.185749.976 r9999a cmdr03BF OLoc     5235 <lc id="ICE_402022-8" V="100" fn="true" dir="true" V_hint="max" throttleid="rv9020" controlcode="" slavecode="" server="infw03BFDD44"/>
+
+20230410.185750.008 r9999a ICE_4020 OLoc     3053 new message 117:command nrruns=65
+20230410.185750.008 r9999a ICE_4020 OLoc     1972 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20230410.185750.008 r9999a ICE_4020 OLoc     2009 check function event (curV=0 drvV=100)
+20230410.185750.008 r9999a ICE_4020 OLoc     2289 Sending command...V=100 dir=fwd secaddr=false
+
+
+
+
+
+
+
+
+
+
+
+
