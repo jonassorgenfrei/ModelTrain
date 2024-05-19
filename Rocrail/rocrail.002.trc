@@ -1,517 +1,926 @@
-20240409.155218.608 r9999a Diesel_2 OLoc     2311 Sending command...V=80 dir=fwd secaddr=false
-20240409.155218.608 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=101 dir=forwards lights=off
-20240409.155219.141 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="81" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155219.172 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="82" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155219.203 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="83" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155219.234 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="84" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155219.250 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2826
-20240409.155219.250 r9999a Diesel_2 OLoc     2033 check function event (curV=80 drvV=81)
-20240409.155219.250 r9999a Diesel_2 OLoc     2311 Sending command...V=81 dir=fwd secaddr=false
-20240409.155219.250 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=102 dir=forwards lights=off
-20240409.155219.250 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155219.281 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2827
-20240409.155219.281 r9999a Diesel_2 OLoc     2033 check function event (curV=81 drvV=82)
-20240409.155219.281 r9999a Diesel_2 OLoc     2311 Sending command...V=82 dir=fwd secaddr=false
-20240409.155219.281 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=104 dir=forwards lights=off
-20240409.155219.281 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155219.281 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="86" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155219.297 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2828
-20240409.155219.297 r9999a Diesel_2 OLoc     2033 check function event (curV=82 drvV=83)
-20240409.155219.297 r9999a Diesel_2 OLoc     2311 Sending command...V=83 dir=fwd secaddr=false
-20240409.155219.297 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=105 dir=forwards lights=off
-20240409.155219.297 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155219.312 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2829
-20240409.155219.312 r9999a Diesel_2 OLoc     2033 check function event (curV=83 drvV=84)
-20240409.155219.312 r9999a Diesel_2 OLoc     2311 Sending command...V=84 dir=fwd secaddr=false
-20240409.155219.312 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=106 dir=forwards lights=off
-20240409.155219.312 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155219.328 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2830
-20240409.155219.328 r9999a Diesel_2 OLoc     2033 check function event (curV=84 drvV=86)
-20240409.155219.328 r9999a Diesel_2 OLoc     2311 Sending command...V=86 dir=fwd secaddr=false
-20240409.155219.328 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=109 dir=forwards lights=off
-20240409.155220.157 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="87" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155220.235 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="88" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155220.266 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2839
-20240409.155220.266 r9999a Diesel_2 OLoc     2033 check function event (curV=86 drvV=87)
-20240409.155220.266 r9999a Diesel_2 OLoc     2311 Sending command...V=87 dir=fwd secaddr=false
-20240409.155220.266 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=110 dir=forwards lights=off
-20240409.155220.266 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155220.281 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2840
-20240409.155220.281 r9999a Diesel_2 OLoc     2033 check function event (curV=87 drvV=88)
-20240409.155220.281 r9999a Diesel_2 OLoc     2311 Sending command...V=88 dir=fwd secaddr=false
-20240409.155220.281 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=111 dir=forwards lights=off
-20240409.155220.969 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="89" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155221.031 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2847
-20240409.155221.031 r9999a Diesel_2 OLoc     2033 check function event (curV=88 drvV=89)
-20240409.155221.031 r9999a Diesel_2 OLoc     2311 Sending command...V=89 dir=fwd secaddr=false
-20240409.155221.031 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=113 dir=forwards lights=off
-20240409.155221.282 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="90" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155221.360 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2850
-20240409.155221.360 r9999a Diesel_2 OLoc     2033 check function event (curV=89 drvV=90)
-20240409.155221.360 r9999a Diesel_2 OLoc     2311 Sending command...V=90 dir=fwd secaddr=false
-20240409.155221.360 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=114 dir=forwards lights=off
-20240409.155223.816 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="90" fn="false" dir="false" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155223.878 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2873
-20240409.155223.878 r9999a Diesel_2 OLoc     2311 Sending command...V=90 dir=rev secaddr=false
-20240409.155223.878 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=114 dir=reverse lights=off
-20240409.155229.855 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_220012-9" V="0" fn="false" dir="false" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155229.902 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2928
-20240409.155229.902 r9999a Diesel_2 OLoc     2033 check function event (curV=90 drvV=0)
-20240409.155229.902 r9999a Diesel_2 OLoc     2311 Sending command...V=0 dir=rev secaddr=false
-20240409.155229.902 r9999c 00002164 CBUS     1531 loco 0:15 session=3 speed=0 dir=reverse lights=off
-20240409.155237.467 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="1" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155237.529 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="2" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155237.545 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2953
-20240409.155237.545 r9999a Diesel_2 OLoc     2033 check function event (curV=0 drvV=1)
-20240409.155237.545 r9999a Diesel_2 OLoc     2311 Sending command...V=1 dir=fwd secaddr=false
-20240409.155237.545 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=1 dir=forwards lights=off
-20240409.155237.545 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155237.560 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2954
-20240409.155237.560 r9999a Diesel_2 OLoc     2033 check function event (curV=1 drvV=2)
-20240409.155237.560 r9999a Diesel_2 OLoc     2311 Sending command...V=2 dir=fwd secaddr=false
-20240409.155237.560 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=2 dir=forwards lights=off
-20240409.155237.623 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="3" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155237.654 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2955
-20240409.155237.654 r9999a Diesel_2 OLoc     2033 check function event (curV=2 drvV=3)
-20240409.155237.654 r9999a Diesel_2 OLoc     2311 Sending command...V=3 dir=fwd secaddr=false
-20240409.155237.654 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=3 dir=forwards lights=off
-20240409.155238.186 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="4" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155238.201 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2960
-20240409.155238.201 r9999a Diesel_2 OLoc     2033 check function event (curV=3 drvV=4)
-20240409.155238.201 r9999a Diesel_2 OLoc     2311 Sending command...V=4 dir=fwd secaddr=false
-20240409.155238.201 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=5 dir=forwards lights=off
-20240409.155238.233 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="6" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155238.311 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2961
-20240409.155238.311 r9999a Diesel_2 OLoc     2033 check function event (curV=4 drvV=6)
-20240409.155238.311 r9999a Diesel_2 OLoc     2311 Sending command...V=6 dir=fwd secaddr=false
-20240409.155238.311 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=7 dir=forwards lights=off
-20240409.155238.311 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="7" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155238.420 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2962
-20240409.155238.420 r9999a Diesel_2 OLoc     2033 check function event (curV=6 drvV=7)
-20240409.155238.420 r9999a Diesel_2 OLoc     2311 Sending command...V=7 dir=fwd secaddr=false
-20240409.155238.420 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=8 dir=forwards lights=off
-20240409.155238.967 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="8" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155239.030 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="9" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155239.077 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2968
-20240409.155239.077 r9999a Diesel_2 OLoc     2033 check function event (curV=7 drvV=8)
-20240409.155239.077 r9999a Diesel_2 OLoc     2311 Sending command...V=8 dir=fwd secaddr=false
-20240409.155239.077 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=10 dir=forwards lights=off
-20240409.155239.077 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155239.077 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="10" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155239.108 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2969
-20240409.155239.108 r9999a Diesel_2 OLoc     2033 check function event (curV=8 drvV=9)
-20240409.155239.108 r9999a Diesel_2 OLoc     2311 Sending command...V=9 dir=fwd secaddr=false
-20240409.155239.108 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=11 dir=forwards lights=off
-20240409.155239.108 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155239.123 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2970
-20240409.155239.123 r9999a Diesel_2 OLoc     2033 check function event (curV=9 drvV=10)
-20240409.155239.123 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
-20240409.155239.123 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=12 dir=forwards lights=off
-20240409.155239.139 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="11" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155239.217 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2971
-20240409.155239.217 r9999a Diesel_2 OLoc     2033 check function event (curV=10 drvV=11)
-20240409.155239.217 r9999a Diesel_2 OLoc     2311 Sending command...V=11 dir=fwd secaddr=false
-20240409.155239.217 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=13 dir=forwards lights=off
-20240409.155239.812 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="12" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155239.875 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2977
-20240409.155239.875 r9999a Diesel_2 OLoc     2033 check function event (curV=11 drvV=12)
-20240409.155239.875 r9999a Diesel_2 OLoc     2311 Sending command...V=12 dir=fwd secaddr=false
-20240409.155239.875 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="13" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155239.875 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=15 dir=forwards lights=off
-20240409.155239.875 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155239.906 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2978
-20240409.155239.906 r9999a Diesel_2 OLoc     2033 check function event (curV=12 drvV=13)
-20240409.155239.906 r9999a Diesel_2 OLoc     2311 Sending command...V=13 dir=fwd secaddr=false
-20240409.155239.906 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=16 dir=forwards lights=off
-20240409.155239.922 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="14" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155240.000 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2979
-20240409.155240.000 r9999a Diesel_2 OLoc     2033 check function event (curV=13 drvV=14)
-20240409.155240.000 r9999a Diesel_2 OLoc     2311 Sending command...V=14 dir=fwd secaddr=false
-20240409.155240.000 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=17 dir=forwards lights=off
-20240409.155240.641 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="16" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155240.657 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2985
-20240409.155240.657 r9999a Diesel_2 OLoc     2033 check function event (curV=14 drvV=16)
-20240409.155240.657 r9999a Diesel_2 OLoc     2311 Sending command...V=16 dir=fwd secaddr=false
-20240409.155240.657 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=20 dir=forwards lights=off
-20240409.155240.704 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="17" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155240.766 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2986
-20240409.155240.766 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="18" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155240.766 r9999a Diesel_2 OLoc     2033 check function event (curV=16 drvV=17)
-20240409.155240.766 r9999a Diesel_2 OLoc     2311 Sending command...V=17 dir=fwd secaddr=false
-20240409.155240.766 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=21 dir=forwards lights=off
-20240409.155240.766 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155240.797 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2987
-20240409.155240.797 r9999a Diesel_2 OLoc     2033 check function event (curV=17 drvV=18)
-20240409.155240.797 r9999a Diesel_2 OLoc     2311 Sending command...V=18 dir=fwd secaddr=false
-20240409.155240.797 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=22 dir=forwards lights=off
-20240409.155240.829 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="19" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155240.906 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2988
-20240409.155240.906 r9999a Diesel_2 OLoc     2033 check function event (curV=18 drvV=19)
-20240409.155240.906 r9999a Diesel_2 OLoc     2311 Sending command...V=19 dir=fwd secaddr=false
-20240409.155240.906 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=24 dir=forwards lights=off
-20240409.155241.854 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="20" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155241.892 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2997
-20240409.155241.892 r9999a Diesel_2 OLoc     2033 check function event (curV=19 drvV=20)
-20240409.155241.892 r9999a Diesel_2 OLoc     2311 Sending command...V=20 dir=fwd secaddr=false
-20240409.155241.892 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=25 dir=forwards lights=off
-20240409.155241.907 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="21" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155242.001 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=2998
-20240409.155242.001 r9999a Diesel_2 OLoc     2033 check function event (curV=20 drvV=21)
-20240409.155242.001 r9999a Diesel_2 OLoc     2311 Sending command...V=21 dir=fwd secaddr=false
-20240409.155242.001 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=26 dir=forwards lights=off
-20240409.155242.595 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="22" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155242.657 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3004
-20240409.155242.657 r9999a Diesel_2 OLoc     2033 check function event (curV=21 drvV=22)
-20240409.155242.657 r9999a Diesel_2 OLoc     2311 Sending command...V=22 dir=fwd secaddr=false
-20240409.155242.657 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=27 dir=forwards lights=off
-20240409.155242.657 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="23" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155242.657 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155242.689 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3005
-20240409.155242.689 r9999a Diesel_2 OLoc     2033 check function event (curV=22 drvV=23)
-20240409.155242.689 r9999a Diesel_2 OLoc     2311 Sending command...V=23 dir=fwd secaddr=false
-20240409.155242.689 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=29 dir=forwards lights=off
-20240409.155242.720 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="24" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155242.782 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3006
-20240409.155242.782 r9999a Diesel_2 OLoc     2033 check function event (curV=23 drvV=24)
-20240409.155242.782 r9999a Diesel_2 OLoc     2311 Sending command...V=24 dir=fwd secaddr=false
-20240409.155242.782 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=30 dir=forwards lights=off
-20240409.155242.814 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="26" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155242.892 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3007
-20240409.155242.892 r9999a Diesel_2 OLoc     2033 check function event (curV=24 drvV=26)
-20240409.155242.892 r9999a Diesel_2 OLoc     2311 Sending command...V=26 dir=fwd secaddr=false
-20240409.155242.892 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=33 dir=forwards lights=off
-20240409.155243.689 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="27" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155243.751 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="28" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155243.767 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3015
-20240409.155243.767 r9999a Diesel_2 OLoc     2033 check function event (curV=26 drvV=27)
-20240409.155243.767 r9999a Diesel_2 OLoc     2311 Sending command...V=27 dir=fwd secaddr=false
-20240409.155243.767 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=34 dir=forwards lights=off
-20240409.155243.767 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155243.798 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3016
-20240409.155243.798 r9999a Diesel_2 OLoc     2033 check function event (curV=27 drvV=28)
-20240409.155243.798 r9999a Diesel_2 OLoc     2311 Sending command...V=28 dir=fwd secaddr=false
-20240409.155243.798 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=35 dir=forwards lights=off
-20240409.155302.327 r9999I 00004264 CBUS     1282 fast clock sync 15:53 wday=2 divider=1 date=9-4 temp=20
-20240409.155312.754 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="29" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155312.785 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3281
-20240409.155312.785 r9999a Diesel_2 OLoc     2033 check function event (curV=28 drvV=29)
-20240409.155312.785 r9999a Diesel_2 OLoc     2311 Sending command...V=29 dir=fwd secaddr=false
-20240409.155312.785 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=36 dir=forwards lights=off
-20240409.155312.801 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="30" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155312.863 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="31" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155312.895 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3282
-20240409.155312.895 r9999a Diesel_2 OLoc     2033 check function event (curV=29 drvV=30)
-20240409.155312.895 r9999a Diesel_2 OLoc     2311 Sending command...V=30 dir=fwd secaddr=false
-20240409.155312.895 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=38 dir=forwards lights=off
-20240409.155312.895 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155312.910 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3283
-20240409.155312.910 r9999a Diesel_2 OLoc     2033 check function event (curV=30 drvV=31)
-20240409.155312.910 r9999a Diesel_2 OLoc     2311 Sending command...V=31 dir=fwd secaddr=false
-20240409.155312.910 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=39 dir=forwards lights=off
-20240409.155313.395 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="32" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155313.442 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3288
-20240409.155313.442 r9999a Diesel_2 OLoc     2033 check function event (curV=31 drvV=32)
-20240409.155313.442 r9999a Diesel_2 OLoc     2311 Sending command...V=32 dir=fwd secaddr=false
-20240409.155313.442 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=40 dir=forwards lights=off
-20240409.155313.457 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="33" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155313.520 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="34" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155313.551 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3289
-20240409.155313.551 r9999a Diesel_2 OLoc     2033 check function event (curV=32 drvV=33)
-20240409.155313.551 r9999a Diesel_2 OLoc     2311 Sending command...V=33 dir=fwd secaddr=false
-20240409.155313.551 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=41 dir=forwards lights=off
-20240409.155313.551 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155313.567 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3290
-20240409.155313.567 r9999a Diesel_2 OLoc     2033 check function event (curV=33 drvV=34)
-20240409.155313.567 r9999a Diesel_2 OLoc     2311 Sending command...V=34 dir=fwd secaddr=false
-20240409.155313.567 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=43 dir=forwards lights=off
-20240409.155313.629 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="36" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155313.660 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3291
-20240409.155313.660 r9999a Diesel_2 OLoc     2033 check function event (curV=34 drvV=36)
-20240409.155313.660 r9999a Diesel_2 OLoc     2311 Sending command...V=36 dir=fwd secaddr=false
-20240409.155313.660 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=45 dir=forwards lights=off
-20240409.155314.145 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="37" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155314.176 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="38" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155314.207 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3296
-20240409.155314.207 r9999a Diesel_2 OLoc     2033 check function event (curV=36 drvV=37)
-20240409.155314.207 r9999a Diesel_2 OLoc     2311 Sending command...V=37 dir=fwd secaddr=false
-20240409.155314.207 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=46 dir=forwards lights=off
-20240409.155314.207 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155314.223 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3297
-20240409.155314.223 r9999a Diesel_2 OLoc     2033 check function event (curV=37 drvV=38)
-20240409.155314.223 r9999a Diesel_2 OLoc     2311 Sending command...V=38 dir=fwd secaddr=false
-20240409.155314.223 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=48 dir=forwards lights=off
-20240409.155314.223 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="39" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155314.270 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="40" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155314.317 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3298
-20240409.155314.317 r9999a Diesel_2 OLoc     2033 check function event (curV=38 drvV=39)
-20240409.155314.317 r9999a Diesel_2 OLoc     2311 Sending command...V=39 dir=fwd secaddr=false
-20240409.155314.317 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=49 dir=forwards lights=off
-20240409.155314.317 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155314.333 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3299
-20240409.155314.333 r9999a Diesel_2 OLoc     2033 check function event (curV=39 drvV=40)
-20240409.155314.333 r9999a Diesel_2 OLoc     2311 Sending command...V=40 dir=fwd secaddr=false
-20240409.155314.333 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=50 dir=forwards lights=off
-20240409.155314.849 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="41" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155314.864 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3304
-20240409.155314.864 r9999a Diesel_2 OLoc     2033 check function event (curV=40 drvV=41)
-20240409.155314.864 r9999a Diesel_2 OLoc     2311 Sending command...V=41 dir=fwd secaddr=false
-20240409.155314.864 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=52 dir=forwards lights=off
-20240409.155314.943 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="42" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155314.974 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3305
-20240409.155314.974 r9999a Diesel_2 OLoc     2033 check function event (curV=41 drvV=42)
-20240409.155314.974 r9999a Diesel_2 OLoc     2311 Sending command...V=42 dir=fwd secaddr=false
-20240409.155314.974 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=53 dir=forwards lights=off
-20240409.155315.192 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="41" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155315.302 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3308
-20240409.155315.302 r9999a Diesel_2 OLoc     2033 check function event (curV=42 drvV=41)
-20240409.155315.302 r9999a Diesel_2 OLoc     2311 Sending command...V=41 dir=fwd secaddr=false
-20240409.155315.302 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=52 dir=forwards lights=off
-20240409.155315.770 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="42" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155315.849 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3313
-20240409.155315.849 r9999a Diesel_2 OLoc     2033 check function event (curV=41 drvV=42)
-20240409.155315.849 r9999a Diesel_2 OLoc     2311 Sending command...V=42 dir=fwd secaddr=false
-20240409.155315.849 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=53 dir=forwards lights=off
-20240409.155315.849 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="43" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155315.958 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3314
-20240409.155315.958 r9999a Diesel_2 OLoc     2033 check function event (curV=42 drvV=43)
-20240409.155315.958 r9999a Diesel_2 OLoc     2311 Sending command...V=43 dir=fwd secaddr=false
-20240409.155315.958 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=54 dir=forwards lights=off
-20240409.155316.443 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="44" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155316.505 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3319
-20240409.155316.505 r9999a Diesel_2 OLoc     2033 check function event (curV=43 drvV=44)
-20240409.155316.505 r9999a Diesel_2 OLoc     2311 Sending command...V=44 dir=fwd secaddr=false
-20240409.155316.505 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=55 dir=forwards lights=off
-20240409.155316.536 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="46" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155316.599 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="47" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155316.614 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3320
-20240409.155316.614 r9999a Diesel_2 OLoc     2033 check function event (curV=44 drvV=46)
-20240409.155316.614 r9999a Diesel_2 OLoc     2311 Sending command...V=46 dir=fwd secaddr=false
-20240409.155316.614 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=58 dir=forwards lights=off
-20240409.155316.614 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155316.630 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3321
-20240409.155316.630 r9999a Diesel_2 OLoc     2033 check function event (curV=46 drvV=47)
-20240409.155316.630 r9999a Diesel_2 OLoc     2311 Sending command...V=47 dir=fwd secaddr=false
-20240409.155316.630 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=59 dir=forwards lights=off
-20240409.155317.225 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="48" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155317.256 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="49" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155317.271 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3327
-20240409.155317.271 r9999a Diesel_2 OLoc     2033 check function event (curV=47 drvV=48)
-20240409.155317.271 r9999a Diesel_2 OLoc     2311 Sending command...V=48 dir=fwd secaddr=false
-20240409.155317.271 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=60 dir=forwards lights=off
-20240409.155317.271 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155317.287 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="50" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155317.302 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3328
-20240409.155317.302 r9999a Diesel_2 OLoc     2033 check function event (curV=48 drvV=49)
-20240409.155317.302 r9999a Diesel_2 OLoc     2311 Sending command...V=49 dir=fwd secaddr=false
-20240409.155317.302 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=62 dir=forwards lights=off
-20240409.155317.302 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155317.318 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3329
-20240409.155317.318 r9999a Diesel_2 OLoc     2033 check function event (curV=49 drvV=50)
-20240409.155317.318 r9999a Diesel_2 OLoc     2311 Sending command...V=50 dir=fwd secaddr=false
-20240409.155317.318 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=63 dir=forwards lights=off
-20240409.155317.334 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="51" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155317.412 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3330
-20240409.155317.412 r9999a Diesel_2 OLoc     2033 check function event (curV=50 drvV=51)
-20240409.155317.412 r9999a Diesel_2 OLoc     2311 Sending command...V=51 dir=fwd secaddr=false
-20240409.155317.412 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=64 dir=forwards lights=off
-20240409.155318.021 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="52" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.068 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3336
-20240409.155318.068 r9999a Diesel_2 OLoc     2033 check function event (curV=51 drvV=52)
-20240409.155318.068 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="53" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.068 r9999a Diesel_2 OLoc     2311 Sending command...V=52 dir=fwd secaddr=false
-20240409.155318.068 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=66 dir=forwards lights=off
-20240409.155318.068 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155318.100 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3337
-20240409.155318.100 r9999a Diesel_2 OLoc     2033 check function event (curV=52 drvV=53)
-20240409.155318.100 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="54" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.100 r9999a Diesel_2 OLoc     2311 Sending command...V=53 dir=fwd secaddr=false
-20240409.155318.100 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=67 dir=forwards lights=off
-20240409.155318.100 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155318.115 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3338
-20240409.155318.115 r9999a Diesel_2 OLoc     2033 check function event (curV=53 drvV=54)
-20240409.155318.115 r9999a Diesel_2 OLoc     2311 Sending command...V=54 dir=fwd secaddr=false
-20240409.155318.115 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=68 dir=forwards lights=off
-20240409.155318.147 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="56" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.209 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3339
-20240409.155318.209 r9999a Diesel_2 OLoc     2033 check function event (curV=54 drvV=56)
-20240409.155318.209 r9999a Diesel_2 OLoc     2311 Sending command...V=56 dir=fwd secaddr=false
-20240409.155318.209 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=71 dir=forwards lights=off
-20240409.155318.819 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="57" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.866 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3345
-20240409.155318.866 r9999a Diesel_2 OLoc     2033 check function event (curV=56 drvV=57)
-20240409.155318.866 r9999a Diesel_2 OLoc     2311 Sending command...V=57 dir=fwd secaddr=false
-20240409.155318.866 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=72 dir=forwards lights=off
-20240409.155318.882 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="58" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.944 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="59" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155318.975 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3346
-20240409.155318.975 r9999a Diesel_2 OLoc     2033 check function event (curV=57 drvV=58)
-20240409.155318.975 r9999a Diesel_2 OLoc     2311 Sending command...V=58 dir=fwd secaddr=false
-20240409.155318.975 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=73 dir=forwards lights=off
-20240409.155318.975 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155318.991 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3347
-20240409.155318.991 r9999a Diesel_2 OLoc     2033 check function event (curV=58 drvV=59)
-20240409.155318.991 r9999a Diesel_2 OLoc     2311 Sending command...V=59 dir=fwd secaddr=false
-20240409.155318.991 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=74 dir=forwards lights=off
-20240409.155319.647 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="60" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155319.741 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3354
-20240409.155319.741 r9999a Diesel_2 OLoc     2033 check function event (curV=59 drvV=60)
-20240409.155319.741 r9999a Diesel_2 OLoc     2311 Sending command...V=60 dir=fwd secaddr=false
-20240409.155319.741 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=76 dir=forwards lights=off
-20240409.155319.756 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="61" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155319.850 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3355
-20240409.155319.850 r9999a Diesel_2 OLoc     2033 check function event (curV=60 drvV=61)
-20240409.155319.850 r9999a Diesel_2 OLoc     2311 Sending command...V=61 dir=fwd secaddr=false
-20240409.155319.850 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=77 dir=forwards lights=off
-20240409.155320.444 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="62" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155320.476 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="63" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155320.507 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3361
-20240409.155320.507 r9999a Diesel_2 OLoc     2033 check function event (curV=61 drvV=62)
-20240409.155320.507 r9999a Diesel_2 OLoc     2311 Sending command...V=62 dir=fwd secaddr=false
-20240409.155320.507 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=78 dir=forwards lights=off
-20240409.155320.507 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155320.507 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="64" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155320.538 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3362
-20240409.155320.538 r9999a Diesel_2 OLoc     2033 check function event (curV=62 drvV=63)
-20240409.155320.538 r9999a Diesel_2 OLoc     2311 Sending command...V=63 dir=fwd secaddr=false
-20240409.155320.538 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=80 dir=forwards lights=off
-20240409.155320.538 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155320.554 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3363
-20240409.155320.554 r9999a Diesel_2 OLoc     2033 check function event (curV=63 drvV=64)
-20240409.155320.554 r9999a Diesel_2 OLoc     2311 Sending command...V=64 dir=fwd secaddr=false
-20240409.155320.554 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=81 dir=forwards lights=off
-20240409.155321.241 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="66" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155321.288 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="67" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155321.303 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3370
-20240409.155321.303 r9999a Diesel_2 OLoc     2033 check function event (curV=64 drvV=66)
-20240409.155321.303 r9999a Diesel_2 OLoc     2311 Sending command...V=66 dir=fwd secaddr=false
-20240409.155321.303 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=83 dir=forwards lights=off
-20240409.155321.303 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155321.335 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3371
-20240409.155321.335 r9999a Diesel_2 OLoc     2033 check function event (curV=66 drvV=67)
-20240409.155321.335 r9999a Diesel_2 OLoc     2311 Sending command...V=67 dir=fwd secaddr=false
-20240409.155321.335 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=85 dir=forwards lights=off
-20240409.155321.335 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="68" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155321.429 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3372
-20240409.155321.429 r9999a Diesel_2 OLoc     2033 check function event (curV=67 drvV=68)
-20240409.155321.429 r9999a Diesel_2 OLoc     2311 Sending command...V=68 dir=fwd secaddr=false
-20240409.155321.429 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=86 dir=forwards lights=off
-20240409.155322.273 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="69" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155322.304 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3380
-20240409.155322.304 r9999a Diesel_2 OLoc     2033 check function event (curV=68 drvV=69)
-20240409.155322.304 r9999a Diesel_2 OLoc     2311 Sending command...V=69 dir=fwd secaddr=false
-20240409.155322.304 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=87 dir=forwards lights=off
-20240409.155322.336 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="70" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155322.414 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3381
-20240409.155322.414 r9999a Diesel_2 OLoc     2033 check function event (curV=69 drvV=70)
-20240409.155322.414 r9999a Diesel_2 OLoc     2311 Sending command...V=70 dir=fwd secaddr=false
-20240409.155322.414 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=88 dir=forwards lights=off
-20240409.155323.992 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="71" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155324.039 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="72" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155324.055 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3396
-20240409.155324.055 r9999a Diesel_2 OLoc     2033 check function event (curV=70 drvV=71)
-20240409.155324.055 r9999a Diesel_2 OLoc     2311 Sending command...V=71 dir=fwd secaddr=false
-20240409.155324.055 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=90 dir=forwards lights=off
-20240409.155324.055 r9999a Diesel_2 OLoc     3146 more messages available...
-20240409.155324.070 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3397
-20240409.155324.070 r9999a Diesel_2 OLoc     2033 check function event (curV=71 drvV=72)
-20240409.155324.070 r9999a Diesel_2 OLoc     2311 Sending command...V=72 dir=fwd secaddr=false
-20240409.155324.070 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=91 dir=forwards lights=off
-20240409.155324.117 r9999a cmdr0391 OLoc     5377 <lc id="Diesel_212225-7" V="73" fn="false" dir="true" throttleid="rv17520" controlcode="" slavecode="" actor="user" server="infw0391F3F4"/>
-
-20240409.155324.164 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3398
-20240409.155324.164 r9999a Diesel_2 OLoc     2033 check function event (curV=72 drvV=73)
-20240409.155324.164 r9999a Diesel_2 OLoc     2311 Sending command...V=73 dir=fwd secaddr=false
-20240409.155324.164 r9999c 00000A10 CBUS     1531 loco 0:16 session=0 speed=92 dir=forwards lights=off
-20240409.155402.546 r9999I 00004264 CBUS     1282 fast clock sync 15:54 wday=2 divider=1 date=9-4 temp=20
-20240409.155502.852 r9999I 00004264 CBUS     1282 fast clock sync 15:55 wday=2 divider=1 date=9-4 temp=20
-20240409.155600.253 r9999c 0000363C CBUS     1328 request power OFF
-20240409.155600.253 r9999a cmdr0391 OModel   2738 sys: stop
-20240409.155600.253 r9999I cmdr0391 OModel   2787 informing 6 listeners of a system event name=sys val=stop...
-20240409.155600.253 r9999a cmdr0391 OLoc     0928 event for loco Dampf_78355: sys
-20240409.155600.253 r9999a cmdr0391 OLoc     0928 event for loco Dampf_Gr_41334: sys
-20240409.155600.253 r9999a cmdr0391 OLoc     0928 event for loco Diesel_220012-9: sys
-20240409.155600.253 r9999a cmdr0391 OLoc     0928 event for loco Diesel_212225-7: sys
-20240409.155600.253 r9999a cmdr0391 OLoc     0928 event for loco ICE_402022-8: sys
-20240409.155600.253 r9999a cmdr0391 OWeather 0117 event for weather : sys stop
-20240409.155600.300 r9999c rcanread CBUS     0887 power OFF
-20240409.155603.174 r9999I 00004264 CBUS     1282 fast clock sync 15:56 wday=2 divider=1 date=9-4 temp=20
-20240409.155605.441 r9999a cmdr0391 OModel   2738 model: plantitle
-20240409.155605.441 r9999I cmdr0391 OModel   2926 save notes...
+---------------------------------------------------
+ RRRRRR                                      lll   
+ RRR  RRR                                iii lll   
+ RRR  RRR                                    lll   
+ RRRRRR    ooooo   ccccc rrrrrr   aaaaaa iii lll   
+ RRR RRR  ooo ooo ccc    rrr rrr aaa aaa iii lll   
+ RRR  RRR ooo ooo ccc    rrr     aaa aaa iii lll   
+ RRR  RRR  ooooo   ccccc rrr      aaaaaa iii  lll  
+---------------------------------------------------
+ TM and Copyright 2002-2024 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   https://wiki.rocrail.net
+---------------------------------------------------
+ No SupportKey
+---------------------------------------------------
+ Rocrail Basic 2.1.4391 []:[Mar 31 2024]
+---------------------------------------------------
+ processid = 9776
+        ip = 
+       pwd = C:\Users\Jürgen\Documents\ModelTrain\Rocrail
+      args = OCmdLn: key=-l value=C:\Program Files\Rocrail\bin, key=-w value=C:\Users\Jürgen\Documents\ModelTrain\Rocrail, key=-lic value=C:\Program Files\Rocrail\lic.dat, 
+--------------------------------------------------
+20240519.193016.354 r9999I main     OApp     1244 dpIID = []
+20240519.193016.354 r9999I main     OApp     1245 ptIID = []
+20240519.193016.354 r9999I main     OApp     1246 svIID = []
+20240519.193016.354 r9999I main     OApp     1247 lcIID = []
+20240519.193016.354 r9999I main     OModel   0483 parsing [plan.xml]...
+20240519.193016.354 r9999I main     OModel   0501 parsePlan file: plan.xml
+20240519.193016.370 r9999I main     OModel   0554 parsePlan title: Wiesengrund
+20240519.193016.370 r9999I main     OModel   5581 init clearingMaps...
+20240519.193016.370 r9999I main     OModel   5613 init creatingMaps...
+20240519.193016.370 r9999I main     OModel   3531 createFbAddrMap: size=0.
+20240519.193016.370 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Dampf_78355]
+20240519.193016.370 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Dampf_78355]
+20240519.193016.370 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.193016.370 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.193016.370 r9999I 00000D74 OLcDrive 1018 LcDriver 2.1.0 loaded for Dampf_78355
+20240519.193016.370 r9999I tick037D OSystem  0105 Ticker thread has started.
+20240519.193016.370 r9999I main     OLoc     6156 show loco [Dampf_78355]
+20240519.193016.370 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Dampf_Gr_41334]
+20240519.193016.370 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Dampf_Gr_41334]
+20240519.193016.370 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.193016.370 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.193016.370 r9999I 00000D74 OLcDrive 1018 LcDriver 2.1.0 loaded for Dampf_Gr_41334
+20240519.193016.370 r9999I main     OLoc     6156 show loco [Dampf_Gr_41334]
+20240519.193016.370 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Diesel_220012-9]
+20240519.193016.370 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Diesel_220012-9]
+20240519.193016.370 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.193016.370 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.193016.370 r9999I 00000D74 OLcDrive 1018 LcDriver 2.1.0 loaded for Diesel_220012-9
+20240519.193016.370 r9999I main     OLoc     6156 show loco [Diesel_220012-9]
+20240519.193016.370 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Diesel_212225-7]
+20240519.193016.370 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Diesel_212225-7]
+20240519.193016.370 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.193016.370 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.193016.370 r9999I 00000D74 OLcDrive 1018 LcDriver 2.1.0 loaded for Diesel_212225-7
+20240519.193016.370 r9999I main     OLoc     6156 show loco [Diesel_212225-7]
+20240519.193016.370 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [ICE_402022-8]
+20240519.193016.370 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [ICE_402022-8]
+20240519.193016.370 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.193016.370 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.193016.370 r9999I 00000D74 OLcDrive 1018 LcDriver 2.1.0 loaded for ICE_402022-8
+20240519.193016.370 r9999I main     OLoc     6156 show loco [ICE_402022-8]
+20240519.193016.370 r9999I main     OLoc     7518 no restore wanted: reset speed for loco [Dampf_Kl_89066]
+20240519.193016.370 r9999I main     OLoc     7522 no restore wanted: reset functions for loco [Dampf_Kl_89066]
+20240519.193016.370 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.193016.370 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.193016.385 r9999I 00000D74 OLcDrive 1018 LcDriver 2.1.0 loaded for Dampf_Kl_89066
+20240519.193016.385 r9999I main     OLoc     6156 show loco [Dampf_Kl_89066]
+20240519.193016.385 r9999I main     OModel   3553 createSwAddrMap: size=26.
+20240519.193016.385 r9999I main     OModel   3574 createCoAddrMap: size=0.
+20240519.193016.385 r9999I main     OControl 2537 initDigInts lib=[rcan] iid=[GC1e]
+ No SupportKey
+20240519.193016.385 r9999I main     OApp     0310 No valid support key found: 0 days expired.
+20240519.193016.385 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\rcan.dll]
+20240519.193016.385 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\rcan.dll:rocGetDigInt]
+20240519.193016.385 r9999I tick03D0 OSystem  0105 Ticker thread has started.
+20240519.193016.385 r9999I 00000D74 ORCAN    0611 ----------------------------------------
+20240519.193016.385 r9999I 00000D74 ORCAN    0612 RCAN 2.1.0
+20240519.193016.385 r9999I 00000D74 ORCAN    0613 ----------------------------------------
+20240519.193016.385 r9999I 00000D74 ORCAN    0614 iid            = GC1e
+20240519.193016.385 r9999I 00000D74 ORCAN    0615 canid          = 11
+20240519.193016.385 r9999I 00000D74 ORCAN    0616 sublib         = tcp
+20240519.193016.385 r9999I 00000D74 ORCAN    0617 protocol       = CBUS
+20240519.193016.385 r9999I 00000D74 ORCAN    0626 fast clock     = yes
+20240519.193016.385 r9999I 00000D74 ORCAN    0627 SoD address    = 0
+20240519.193016.385 r9999I 00000D74 ORCAN    0628 short events   = yes
+20240519.193016.385 r9999I 00000D74 ORCAN    0629 slot server    = no
+20240519.193016.385 r9999I 00000D74 ORCAN    0630 switchtime     = 250
+20240519.193016.385 r9999I 00000D74 ORCAN    0631 purgetime      = 10
+20240519.193016.385 r9999I 00000D74 ORCAN    0632 check decoders = no
+20240519.193016.385 r9999I 00000D74 ORCAN    0633 heart beat     = no:4712
+20240519.193016.385 r9999I 00000D74 ORCAN    0636 ----------------------------------------
+20240519.193016.385 r9999I 00000D74 ORCAN    0080 host        = 192.168.178.200
+20240519.193016.385 r9999I 00000D74 ORCAN    0081 port        = 5550
+20240519.193016.385 r9999I 00000D74 ORCAN    0082 type        = ASCII
+20240519.193016.385 r9999I 00000D74 ORCAN    0083 command ack = no
+20240519.193016.385 r9999I 00000D74 ORCAN    0084 ----------------------------------------
+20240519.193016.385 r9999I rcanread ORCAN    0254 reader started.
+20240519.193016.385 r9999I rcanwrit ORCAN    0317 writer started.
+20240519.193016.385 r9999I main     OControl 2603 send decoder list to digint...
+20240519.193016.385 r9999I keeper   CBUS     1060 keeper started.
+20240519.193016.385 r9999I rcanqueu CBUS     1113 timed queue started
+20240519.193016.385 r9999I main     OControl 2629 initDigInts OK
+20240519.193016.385 r9999I main     OPowerMa 0612 Power Manager instantiated.
+20240519.193016.385 r9999I main     OControl 0193 Init short circuit sensor...
+20240519.193016.385 r9999I clocktic OControl 2911 ClockTicker started.
+20240519.193016.385 r9999I checker  OControl 3003 switch position checker started
+20240519.193016.385 r9999I main     OModel   8775 loading occupancy file [occ.xml]
+20240519.193016.385 r9999I main     OModel   5656 init blocks...
+20240519.193016.385 r9999I main     OModel   5664 init seltabs...
+20240519.193016.385 r9999I main     OModel   5680 init stageblocks...
+20240519.193016.385 r9999I main     OModel   5696 init turntables...
+20240519.193016.385 r9999I main     OCompeti 0270 competition ready to go...
+20240519.193016.385 r9999I lightrun OLightCt 0182 light control started...
+20240519.193016.385 r9999I main     OClntCon 1042 ClientConnection started on port 8051.
+20240519.193016.385 r9999I cconmngr OClntCon 0515 Manager started.
+20240519.193016.385 r9999I broadcas OClntCon 0694 Broadcaster started.
+20240519.193016.385 r9999I main     OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\rocabox.dll]
+20240519.193016.385 r9999I main     OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\rocabox.dll:getArchiveBox]
+ No SupportKey
+20240519.193016.385 r9999I 00000D74 OArchive 0557 ------------------------------------------------------------
+20240519.193016.385 r9999I 00000D74 OArchive 0558 @Box
+20240519.193016.385 r9999I 00000D74 OArchive 0559   home     = [abox]
+20240519.193016.385 r9999I 00000D74 OArchive 0560   readonly = [true]
+20240519.193016.385 r9999I 00000D74 OArchive 0561   Copyright (c) 2002-2024 Robert Jan Versluis, Rocrail.net
+20240519.193016.385 r9999I 00000D74 OArchive 0562   All rights reserved.
+20240519.193016.385 r9999I 00000D74 OArchive 0563 ------------------------------------------------------------
+20240519.193016.385 r9999I 00000D74 OArchive 0450 read ini [abox\rocabox.ini]
+20240519.193016.385 r9999I 00000D74 OArchive 0468 categories = []
+20240519.193016.385 r9999I main     OApp     1664 POWER ON
+20240519.193016.385 r9999c 00000D74 CBUS     1346 request power ON
+20240519.193016.385 r9999a main     OModel   2738 sys: go
+20240519.193016.385 r9999I main     OModel   2787 informing 7 listeners of a system event name=sys val=go...
+20240519.193016.385 r9999a main     OLoc     0928 event for loco Dampf_78355: sys
+20240519.193016.401 r9999a main     OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193016.401 r9999a main     OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193016.401 r9999a main     OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193016.401 r9999a main     OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193016.401 r9999a main     OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193016.401 r9999a main     OWeather 0117 event for weather : sys go
+20240519.193016.401 r9999I main     OModel   2393 Checking all Loco's for V=0...
+20240519.193016.416 r9999I rcantcpw rcantcp  0037 cbus tcp watchdog started
+20240519.193016.416 r9999I rcantcpw rcantcp  0115 trying to connect to 192.168.178.200:5550...
+20240519.193016.416 r9999I rcantcpw rcantcp  0124 connected to 192.168.178.200:5550
+20240519.193016.505 r9999I main     OModel   5315 init Track Driver blocks...
+20240519.193016.505 r9999I main     OModel   0764 updateFB
+20240519.193016.505 r9999I main     OModel   0769 update Boosters...
+20240519.193016.629 r9999I cconmngr OClntCon 0540 client connect count: 1
+20240519.193016.629 r9999I cmdr03D7 OClntCon 0319 cmdReader started for:127.0.0.1.
+20240519.193016.629 r9999I infw03D7 OClntCon 0126 infoWriter started for:127.0.0.1.
+20240519.193016.864 r9999I timedoff OModel   2413 timed off thread started
+20240519.193016.879 r9999I Dampf_78 OLoc     3012 Runner for "Dampf_78355" started.
+20240519.193016.895 r9999I Diesel_2 OLoc     3012 Runner for "Diesel_212225-7" started.
+20240519.193016.895 r9999I Dampf_Kl OLoc     3012 Runner for "Dampf_Kl_89066" started.
+20240519.193016.895 r9999I Dampf_Gr OLoc     3012 Runner for "Dampf_Gr_41334" started.
+20240519.193016.895 r9999I ICE_4020 OLoc     3012 Runner for "ICE_402022-8" started.
+20240519.193016.895 r9999I Diesel_2 OLoc     3012 Runner for "Diesel_220012-9" started.
+20240519.193017.395 r9999I makeWeat OWeather 0941 make weather started for [none]...
+20240519.193017.395 r9999c rcanread ORCAN    0196 Ethernet status: rc=0 con=1 maxcanQ=0 maxethQ=0
+20240519.193017.395 r9999I rcansod  ORCAN    0228 SoD started
+20240519.193017.395 r9999I 00003D64 CBUS     1282 fast clock sync 19:30 wday=0 divider=1 date=19-5 temp=20
+20240519.193017.647 r9999a cmdr03D7 OModel   2738 model: themes
+20240519.193017.662 r9999I cmdr03D7 OClntCon 0419 monitoring for client is on
+20240519.193017.662 r9999I cmdr03D7 OClntCon 0435 client has control access
+20240519.193017.662 r9999a cmdr03D7 OModel   2738 model: plan
+20240519.193017.662 r9999I cmdr03D7 OSocket  0925 address 0 = 192.168.178.1
+ No SupportKey
+20240519.193017.662 r9999I cmdr03D7 OModel   3060 no valid support key found
+20240519.193018.116 r9999I cmdr03D7 OControl 1931 provide Rocrail properties: COM1,COM4
+20240519.193018.147 r9999a cmdr03D7 OModel   2738 model: fstat
+20240519.193018.147 r9999I cmdr03D7 OModel   3346 Sending 0 fstats to client...
+20240519.193018.163 r9999a cmdr03D7 OModel   2738 model: fstat
+20240519.193018.163 r9999I cmdr03D7 OModel   3346 Sending 0 fstats to client...
+20240519.193018.413 r9999I rcansod  CBUS     1033 SoD: query input state by addr=0
+20240519.193018.926 r9999I rcansod  CBUS     1044 SoD: query CS state
+20240519.193018.926 r9999I rcansod  ORCAN    0245 SoD ended
+20240519.193020.704 r9999c 00000B18 CBUS     1346 request power ON
+20240519.193020.704 r9999a cmdr03D7 OModel   2738 sys: go
+20240519.193020.704 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=go...
+20240519.193020.704 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193020.704 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193020.704 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193020.704 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193020.704 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193020.704 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193020.704 r9999a cmdr03D7 OWeather 0117 event for weather : sys go
+20240519.193020.751 r9999c rcanread CBUS     0882 power ON
+20240519.193021.408 r9999I wiodec   OWIO     1916 WIO watchdog did start
+20240519.193023.671 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="80" fn="true" dir="false" V_hint="cruise" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193023.686 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=63
+20240519.193023.686 r9999a Diesel_2 OLoc     1996 V_hint: [cruise][0 maxkmh] = 80 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193023.686 r9999a Diesel_2 OLoc     2033 check function event (curV=0 drvV=80)
+20240519.193023.686 r9999a Diesel_2 OLoc     2311 Sending command...V=80 dir=rev secaddr=false
+20240519.193023.686 r9999I 00000690 CBUS     0254 request session for address 15
+20240519.193023.686 r9999I 00000690 CBUS     0305 slot created for Diesel_220012-9
+20240519.193023.686 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=101 dir=reverse lights=on
+20240519.193025.021 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="50" fn="true" dir="false" V_hint="mid" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193025.114 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=76
+20240519.193025.114 r9999a Diesel_2 OLoc     1996 V_hint: [mid][0 maxkmh] = 50 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193025.114 r9999a Diesel_2 OLoc     2033 check function event (curV=80 drvV=50)
+20240519.193025.114 r9999a Diesel_2 OLoc     2311 Sending command...V=50 dir=rev secaddr=false
+20240519.193025.114 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=63 dir=reverse lights=on
+20240519.193025.616 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="false" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193025.663 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=81
+20240519.193025.663 r9999a Diesel_2 OLoc     1996 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193025.663 r9999a Diesel_2 OLoc     2033 check function event (curV=50 drvV=100)
+20240519.193025.663 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193025.663 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=on
+20240519.193026.721 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="true" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193026.752 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=91
+20240519.193026.752 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=on 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193026.752 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193026.752 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=ON
+20240519.193027.596 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="false" dir="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193027.627 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=99
+20240519.193027.627 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193027.627 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193027.627 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=off
+20240519.193027.627 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193027.642 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=100
+20240519.193027.643 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=off 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193027.644 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=off
+20240519.193027.644 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193027.645 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=OFF
+20240519.193028.623 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193028.732 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=110
+20240519.193028.732 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=off -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193028.732 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193028.732 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=OFF
+20240519.193030.467 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="2" fndesc="F2" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="true" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193030.483 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=126
+20240519.193030.483 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=2] lights=off -- 02 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193030.484 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193030.484 r9999c 00000690 CBUS     1599 loco session=0 fn=2 state=ON
+20240519.193030.915 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193030.947 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="true" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193031.025 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=131
+20240519.193031.027 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193031.028 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=on
+20240519.193031.031 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193031.056 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=132
+20240519.193031.056 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=on -- 02 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193031.056 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=on
+20240519.193031.056 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193031.056 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=ON
+20240519.193031.322 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="4" fndesc="F4" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="true" f3="false" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193031.369 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=135
+20240519.193031.369 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=4] lights=on -- 02 -- 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193031.369 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193031.369 r9999c 00000690 CBUS     1599 loco session=0 fn=4 state=ON
+20240519.193031.683 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="3" fndesc="F3" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="true" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193031.699 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=138
+20240519.193031.699 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=3] lights=on -- 02 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193031.699 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193031.699 r9999c 00000690 CBUS     1599 loco session=0 fn=3 state=ON
+20240519.193032.012 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="true" f1="true" f2="true" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193032.027 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=141
+20240519.193032.027 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=on 01 02 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193032.027 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193032.027 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=ON
+20240519.193033.353 r9999c 00000B18 CBUS     1328 request power OFF
+20240519.193033.353 r9999a cmdr03D7 OModel   2738 sys: stop
+20240519.193033.353 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=stop...
+20240519.193033.353 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193033.353 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193033.353 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193033.353 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193033.353 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193033.353 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193033.353 r9999a cmdr03D7 OWeather 0117 event for weather : sys stop
+20240519.193033.400 r9999c rcanread CBUS     0887 power OFF
+20240519.193033.995 r9999c 00000B18 CBUS     1346 request power ON
+20240519.193033.995 r9999a cmdr03D7 OModel   2738 sys: go
+20240519.193033.995 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=go...
+20240519.193033.995 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193033.995 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193033.995 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193033.995 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193033.995 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193033.995 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193033.995 r9999a cmdr03D7 OWeather 0117 event for weather : sys go
+20240519.193034.042 r9999c rcanread CBUS     0882 power ON
+20240519.193034.914 r9999c 00000B18 CBUS     1328 request power OFF
+20240519.193034.914 r9999a cmdr03D7 OModel   2738 sys: stop
+20240519.193034.914 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=stop...
+20240519.193034.914 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193034.914 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193034.914 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193034.914 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193034.914 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193034.914 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193034.914 r9999a cmdr03D7 OWeather 0117 event for weather : sys stop
+20240519.193034.961 r9999c rcanread CBUS     0887 power OFF
+20240519.193035.258 r9999c 00000B18 CBUS     1346 request power ON
+20240519.193035.258 r9999a cmdr03D7 OModel   2738 sys: go
+20240519.193035.258 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=go...
+20240519.193035.258 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193035.258 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193035.258 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193035.258 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193035.258 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193035.258 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193035.258 r9999a cmdr03D7 OWeather 0117 event for weather : sys go
+20240519.193035.305 r9999c rcanread CBUS     0882 power ON
+20240519.193040.019 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="50" fn="true" dir="false" V_hint="mid" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193040.112 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=215
+20240519.193040.112 r9999a Diesel_2 OLoc     1996 V_hint: [mid][0 maxkmh] = 50 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193040.112 r9999a Diesel_2 OLoc     2033 check function event (curV=100 drvV=50)
+20240519.193040.112 r9999a Diesel_2 OLoc     2311 Sending command...V=50 dir=rev secaddr=false
+20240519.193040.112 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=63 dir=reverse lights=on
+20240519.193040.316 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="80" fn="true" dir="false" V_hint="cruise" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193040.332 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=217
+20240519.193040.332 r9999a Diesel_2 OLoc     1996 V_hint: [cruise][0 maxkmh] = 80 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193040.332 r9999a Diesel_2 OLoc     2033 check function event (curV=50 drvV=80)
+20240519.193040.332 r9999a Diesel_2 OLoc     2311 Sending command...V=80 dir=rev secaddr=false
+20240519.193040.332 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=101 dir=reverse lights=on
+20240519.193040.703 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="false" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193040.765 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=221
+20240519.193040.765 r9999a Diesel_2 OLoc     1996 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193040.765 r9999a Diesel_2 OLoc     2033 check function event (curV=80 drvV=100)
+20240519.193040.765 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193040.765 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=on
+20240519.193041.125 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193041.203 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=225
+20240519.193041.203 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193041.203 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193041.515 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193041.531 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=228
+20240519.193041.531 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.193041.531 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=reverse lights=on
+20240519.193042.437 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193042.509 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=237
+20240519.193042.509 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193042.509 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193046.398 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="true" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193046.445 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=273
+20240519.193046.445 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=on -- 02 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193046.445 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193046.445 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=OFF
+20240519.193046.673 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="2" fndesc="F2" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="false" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193046.783 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=276
+20240519.193046.783 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=2] lights=on -- -- 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193046.783 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193046.783 r9999c 00000690 CBUS     1599 loco session=0 fn=2 state=OFF
+20240519.193046.970 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193047.001 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=278
+20240519.193047.001 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193047.001 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193047.001 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=off
+20240519.193047.001 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193047.017 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=279
+20240519.193047.017 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=off -- -- 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193047.017 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=off
+20240519.193047.017 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193047.017 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=OFF
+20240519.193047.267 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="4" fndesc="F4" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="true" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193047.345 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=282
+20240519.193047.345 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=4] lights=off -- -- 03 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193047.345 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193047.345 r9999c 00000690 CBUS     1599 loco session=0 fn=4 state=OFF
+20240519.193047.595 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="3" fndesc="F3" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193047.673 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=285
+20240519.193047.673 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=3] lights=off -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193047.673 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193047.673 r9999c 00000690 CBUS     1599 loco session=0 fn=3 state=OFF
+20240519.193047.986 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="0" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193048.001 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=288
+20240519.193048.001 r9999a Diesel_2 OLoc     2033 check function event (curV=100 drvV=0)
+20240519.193048.001 r9999a Diesel_2 OLoc     2311 Sending command...V=0 dir=fwd secaddr=false
+20240519.193048.001 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=0 dir=forwards lights=off
+20240519.193048.471 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="0" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193048.542 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=293
+20240519.193048.542 r9999a Diesel_2 OLoc     2311 Sending command...V=0 dir=fwd secaddr=false
+20240519.193048.542 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=0 dir=forwards lights=off
+20240519.193049.964 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="false" dir="true" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193050.073 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=307
+20240519.193050.073 r9999a Diesel_2 OLoc     1996 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193050.073 r9999a Diesel_2 OLoc     2033 check function event (curV=0 drvV=100)
+20240519.193050.073 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193050.073 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=off
+20240519.193100.739 r9999I 00003D64 CBUS     1282 fast clock sync 19:31 wday=0 divider=1 date=19-5 temp=20
+20240519.193201.223 r9999I 00003D64 CBUS     1282 fast clock sync 19:32 wday=0 divider=1 date=19-5 temp=20
+20240519.193301.739 r9999I 00003D64 CBUS     1282 fast clock sync 19:33 wday=0 divider=1 date=19-5 temp=20
+20240519.193402.262 r9999I 00003D64 CBUS     1282 fast clock sync 19:34 wday=0 divider=1 date=19-5 temp=20
+20240519.193502.834 r9999I 00003D64 CBUS     1282 fast clock sync 19:35 wday=0 divider=1 date=19-5 temp=20
+20240519.193603.406 r9999I 00003D64 CBUS     1282 fast clock sync 19:36 wday=0 divider=1 date=19-5 temp=20
+20240519.193619.078 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.193619.078 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193619.078 r9999c 00000B18 CBUS     1687 read CV1 of loc 15...
+20240519.193623.764 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.193623.764 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193623.765 r9999c 00000B18 CBUS     1687 read CV1 of loc 15...
+20240519.193625.344 r9999c rcanread CBUS     0704 cv 1 has a value of 15
+20240519.193625.344 r9999I 00002018 OControl 2209 Program event 7: cv1:0=15 addr=0 type=0
+20240519.193639.323 r9999I 00000B18 CBUS     1648 program type 0 for 0:0
+20240519.193639.323 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193639.323 r9999c 00000B18 CBUS     1687 read CV1 of loc 0...
+20240519.193640.913 r9999c rcanread CBUS     0704 cv 1 has a value of 15
+20240519.193640.913 r9999I 00002018 OControl 2209 Program event 7: cv1:0=15 addr=0 type=0
+20240519.193703.952 r9999I 00003D64 CBUS     1282 fast clock sync 19:37 wday=0 divider=1 date=19-5 temp=20
+20240519.193713.751 r9999c 00000B18 CBUS     1328 request power OFF
+20240519.193713.751 r9999a cmdr03D7 OModel   2738 sys: stop
+20240519.193713.751 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=stop...
+20240519.193713.767 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193713.767 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193713.767 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193713.767 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193713.767 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193713.767 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193713.767 r9999a cmdr03D7 OWeather 0117 event for weather : sys stop
+20240519.193713.798 r9999c rcanread CBUS     0887 power OFF
+20240519.193714.329 r9999c 00000B18 CBUS     1346 request power ON
+20240519.193714.329 r9999a cmdr03D7 OModel   2738 sys: go
+20240519.193714.329 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=go...
+20240519.193714.329 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193714.329 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193714.329 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193714.329 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193714.329 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193714.329 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193714.329 r9999a cmdr03D7 OWeather 0117 event for weather : sys go
+20240519.193714.376 r9999c rcanread CBUS     0882 power ON
+20240519.193715.154 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193715.186 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3829
+20240519.193715.186 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=off 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193715.186 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193715.186 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=ON
+20240519.193716.094 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193716.126 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="true" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193716.172 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3838
+20240519.193716.172 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193716.172 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193716.172 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193716.188 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3839
+20240519.193716.188 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=on 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193716.188 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193716.188 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193716.188 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=ON
+20240519.193720.067 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="59" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193720.114 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3875
+20240519.193720.114 r9999a Diesel_2 OLoc     2033 check function event (curV=100 drvV=59)
+20240519.193720.114 r9999a Diesel_2 OLoc     2311 Sending command...V=59 dir=fwd secaddr=false
+20240519.193720.114 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=74 dir=forwards lights=on
+20240519.193721.484 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="50" fn="true" dir="true" V_hint="mid" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193721.531 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3888
+20240519.193721.531 r9999a Diesel_2 OLoc     1996 V_hint: [mid][0 maxkmh] = 50 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193721.531 r9999a Diesel_2 OLoc     2033 check function event (curV=59 drvV=50)
+20240519.193721.531 r9999a Diesel_2 OLoc     2311 Sending command...V=50 dir=fwd secaddr=false
+20240519.193721.531 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=63 dir=forwards lights=on
+20240519.193721.937 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="80" fn="true" dir="true" V_hint="cruise" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193721.968 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3892
+20240519.193721.968 r9999a Diesel_2 OLoc     1996 V_hint: [cruise][0 maxkmh] = 80 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193721.968 r9999a Diesel_2 OLoc     2033 check function event (curV=50 drvV=80)
+20240519.193721.968 r9999a Diesel_2 OLoc     2311 Sending command...V=80 dir=fwd secaddr=false
+20240519.193721.968 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=101 dir=forwards lights=on
+20240519.193722.297 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193722.406 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3896
+20240519.193722.406 r9999a Diesel_2 OLoc     1996 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193722.406 r9999a Diesel_2 OLoc     2033 check function event (curV=80 drvV=100)
+20240519.193722.406 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193722.406 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193723.151 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="2" fndesc="F2" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="true" f1="true" f2="true" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193723.182 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3903
+20240519.193723.182 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=2] lights=on 01 02 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193723.182 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193723.182 r9999c 00000690 CBUS     1599 loco session=0 fn=2 state=ON
+20240519.193723.981 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193724.012 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="true" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193724.060 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3911
+20240519.193724.060 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193724.060 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=off
+20240519.193724.060 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193724.075 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3912
+20240519.193724.075 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=off 01 02 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193724.075 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=off
+20240519.193724.075 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193724.075 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=OFF
+20240519.193724.538 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="true" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193724.616 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3917
+20240519.193724.616 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=off -- 02 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193724.616 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193724.616 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=OFF
+20240519.193724.897 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="2" fndesc="F2" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193724.944 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3920
+20240519.193724.944 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=2] lights=off -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193724.944 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193724.944 r9999c 00000690 CBUS     1599 loco session=0 fn=2 state=OFF
+20240519.193725.509 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="4" fndesc="F4" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="false" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193725.602 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3926
+20240519.193725.602 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=4] lights=off -- -- -- 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193725.602 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193725.602 r9999c 00000690 CBUS     1599 loco session=0 fn=4 state=ON
+20240519.193725.821 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="3" fndesc="F3" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193725.930 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3929
+20240519.193725.930 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=3] lights=off -- -- 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193725.930 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193725.930 r9999c 00000690 CBUS     1599 loco session=0 fn=3 state=ON
+20240519.193726.165 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="false" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193726.274 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3932
+20240519.193726.274 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=off 01 -- 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193726.274 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193726.274 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=ON
+20240519.193726.446 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="2" fndesc="F2" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="true" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193726.503 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3934
+20240519.193726.503 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=2] lights=off 01 02 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193726.503 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193726.503 r9999c 00000690 CBUS     1599 loco session=0 fn=2 state=ON
+20240519.193726.785 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193726.800 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="true" f1="true" f2="true" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193726.832 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3937
+20240519.193726.832 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193726.832 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193726.832 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193726.847 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=3938
+20240519.193726.847 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=on 01 02 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193726.847 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.193726.847 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193726.847 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=ON
+20240519.193804.463 r9999I 00003D64 CBUS     1282 fast clock sync 19:38 wday=0 divider=1 date=19-5 temp=20
+20240519.193815.054 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.193815.054 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193815.054 r9999c 00000B18 CBUS     1687 read CV1 of loc 15...
+20240519.193830.676 r9999I 00000B18 CBUS     1648 program type 0 for 0:0
+20240519.193830.676 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193830.676 r9999c 00000B18 CBUS     1687 read CV1 of loc 0...
+20240519.193832.270 r9999c rcanread CBUS     0704 cv 1 has a value of 15
+20240519.193832.270 r9999I 00002018 OControl 2209 Program event 7: cv1:0=15 addr=0 type=0
+20240519.193839.438 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.193839.438 r9999c 00000B18 CBUS     1726 set CV8 of loc 15 to 8...
+20240519.193839.438 r9999c 00000B18 CBUS     1739 output 15 OFF
+20240519.193840.112 r9999c rcanread CBUS     0914 service track session 0: status=3, "Write Acknowledge"
+20240519.193840.112 r9999I 00002018 OControl 2209 Program event 7: cv8:0=-1 addr=0 type=0
+20240519.193842.715 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.193842.715 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193842.715 r9999c 00000B18 CBUS     1687 read CV1 of loc 15...
+20240519.193843.576 r9999c rcanread CBUS     0704 cv 1 has a value of 3
+20240519.193843.576 r9999I 00002018 OControl 2209 Program event 7: cv1:0=3 addr=0 type=0
+20240519.193847.555 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.193847.555 r9999c 00000B18 CBUS     1726 set CV1 of loc 15 to 15...
+20240519.193847.555 r9999c 00000B18 CBUS     1739 output 15 OFF
+20240519.193848.244 r9999c rcanread CBUS     0914 service track session 0: status=3, "Write Acknowledge"
+20240519.193848.244 r9999I 00002018 OControl 2209 Program event 7: cv1:0=-1 addr=0 type=0
+20240519.193851.676 r9999I 00000B18 CBUS     1648 program type 0 for 0:-1
+20240519.193851.692 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.193851.692 r9999c 00000B18 CBUS     1687 read CV1 of loc -1...
+20240519.193853.291 r9999c rcanread CBUS     0704 cv 1 has a value of 15
+20240519.193853.291 r9999I 00002018 OControl 2209 Program event 7: cv1:0=15 addr=0 type=0
+20240519.193901.253 r9999c 00000B18 CBUS     1328 request power OFF
+20240519.193901.269 r9999a cmdr03D7 OModel   2738 sys: stop
+20240519.193901.269 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=stop...
+20240519.193901.269 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.193901.269 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.193901.269 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.193901.269 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.193901.269 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.193901.269 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.193901.269 r9999a cmdr03D7 OWeather 0117 event for weather : sys stop
+20240519.193901.316 r9999c rcanread CBUS     0887 power OFF
+20240519.193904.057 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="10" fn="true" dir="true" V_hint="min" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193904.104 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4827
+20240519.193904.104 r9999a Diesel_2 OLoc     1996 V_hint: [min][0 maxkmh] = 10 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.193904.104 r9999a Diesel_2 OLoc     2033 check function event (curV=100 drvV=10)
+20240519.193904.104 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193904.104 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=12 dir=forwards lights=on
+20240519.193904.885 r9999I 00003D64 CBUS     1282 fast clock sync 19:39 wday=0 divider=1 date=19-5 temp=20
+20240519.193904.931 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="10" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193904.963 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="true" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193904.994 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4835
+20240519.193904.994 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193904.994 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=12 dir=forwards lights=off
+20240519.193904.994 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.193905.009 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4836
+20240519.193905.009 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=off 01 02 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193905.009 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=12 dir=forwards lights=off
+20240519.193905.009 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193905.009 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=OFF
+20240519.193905.228 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="2" fndesc="F2" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="false" f3="true" f4="true" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193905.338 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4839
+20240519.193905.338 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=2] lights=off 01 -- 03 04 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193905.338 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193905.338 r9999c 00000690 CBUS     1599 loco session=0 fn=2 state=OFF
+20240519.193905.526 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="4" fndesc="F4" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="false" f3="true" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193905.557 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4841
+20240519.193905.557 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=4] lights=off 01 -- 03 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193905.557 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193905.557 r9999c 00000690 CBUS     1599 loco session=0 fn=4 state=OFF
+20240519.193905.824 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="true" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193905.887 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4844
+20240519.193905.887 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=off -- -- 03 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193905.887 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193905.887 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=OFF
+20240519.193906.168 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="3" fndesc="F3" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193906.215 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4847
+20240519.193906.215 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=3] lights=off -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.193906.215 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=fwd secaddr=false
+20240519.193906.215 r9999c 00000690 CBUS     1599 loco session=0 fn=3 state=OFF
+20240519.193907.177 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="0" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193907.209 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4856
+20240519.193907.209 r9999a Diesel_2 OLoc     2033 check function event (curV=10 drvV=0)
+20240519.193907.209 r9999a Diesel_2 OLoc     2311 Sending command...V=0 dir=fwd secaddr=false
+20240519.193907.209 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=0 dir=forwards lights=off
+20240519.193908.288 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.193908.304 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=4866
+20240519.193908.304 r9999a Diesel_2 OLoc     2033 check function event (curV=0 drvV=100)
+20240519.193908.304 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.193908.304 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=off
+20240519.194005.274 r9999I 00003D64 CBUS     1282 fast clock sync 19:40 wday=0 divider=1 date=19-5 temp=20
+20240519.194105.870 r9999I 00003D64 CBUS     1282 fast clock sync 19:41 wday=0 divider=1 date=19-5 temp=20
+20240519.194206.242 r9999I 00003D64 CBUS     1282 fast clock sync 19:42 wday=0 divider=1 date=19-5 temp=20
+20240519.194307.021 r9999I 00003D64 CBUS     1282 fast clock sync 19:43 wday=0 divider=1 date=19-5 temp=20
+20240519.194407.620 r9999I 00003D64 CBUS     1282 fast clock sync 19:44 wday=0 divider=1 date=19-5 temp=20
+20240519.194459.302 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_212225-7" V="100" fn="true" dir="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194459.412 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8068
+20240519.194459.412 r9999a Diesel_2 OLoc     2033 check function event (curV=0 drvV=100)
+20240519.194459.412 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.194459.412 r9999I 00003B28 CBUS     0254 request session for address 16
+20240519.194459.412 r9999I 00003B28 CBUS     0305 slot created for Diesel_212225-7
+20240519.194459.412 r9999c 00003B28 CBUS     1531 loco 0:16 session=0 speed=127 dir=reverse lights=on
+20240519.194459.459 r9999I rcanread CBUS     0102 slot found for Diesel_212225-7 by address 16
+20240519.194459.459 r9999I rcanread CBUS     0493 update slot for session 2, loco Diesel_212225-7
+20240519.194459.459 r9999I rcanread CBUS     0517 set engine speed steps to 28 for loco Diesel_212225-7
+20240519.194459.459 r9999c rcanread CBUS     0142 update functions(0x00) in group 1 for loco Diesel_212225-7
+20240519.194459.459 r9999c rcanread CBUS     0375 update function 0 in group 0 for loco Diesel_212225-7
+20240519.194459.459 r9999a 00002018 OModel   6119 get loco/car by address GC1e:16
+20240519.194459.459 r9999a 00002018 OModel   6133 loco event for [Diesel_212225-7]
+20240519.194459.459 r9999a 00002018 OLoc     0928 event for loco Diesel_212225-7: fn
+20240519.194459.459 r9999a 00002018 OModel   6119 get loco/car by address GC1e:16
+20240519.194459.459 r9999a 00002018 OModel   6133 loco event for [Diesel_212225-7]
+20240519.194459.459 r9999a 00002018 OLoc     0928 event for loco Diesel_212225-7: fn
+20240519.194459.459 r9999c rcanread CBUS     0142 update functions(0x00) in group 2 for loco Diesel_212225-7
+20240519.194459.459 r9999a 00002018 OModel   6119 get loco/car by address GC1e:16
+20240519.194459.459 r9999a 00002018 OModel   6133 loco event for [Diesel_212225-7]
+20240519.194459.459 r9999a 00002018 OLoc     0928 event for loco Diesel_212225-7: fn
+20240519.194459.459 r9999c rcanread CBUS     0142 update functions(0x00) in group 3 for loco Diesel_212225-7
+20240519.194459.459 r9999a 00002018 OModel   6119 get loco/car by address GC1e:16
+20240519.194459.459 r9999a 00002018 OModel   6133 loco event for [Diesel_212225-7]
+20240519.194459.475 r9999c rcanqueu CBUS     1135 got session nr 2: sending frame for Diesel_212225-7
+20240519.194459.475 r9999a 00002018 OLoc     0928 event for loco Diesel_212225-7: fn
+20240519.194500.119 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Diesel_212225-7" f0="false" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194500.181 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8075
+20240519.194500.181 r9999I Diesel_2 OLoc     1864 lc=Diesel_212225-7 [addr=16] [fn=1] lights=off 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.194500.181 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.194500.181 r9999c 00003B28 CBUS     1599 loco session=2 fn=1 state=ON
+20240519.194508.028 r9999I 00003D64 CBUS     1282 fast clock sync 19:45 wday=0 divider=1 date=19-5 temp=20
+20240519.194521.939 r9999c 00000B18 CBUS     1346 request power ON
+20240519.194521.939 r9999a cmdr03D7 OModel   2738 sys: go
+20240519.194521.939 r9999I cmdr03D7 OModel   2787 informing 7 listeners of a system event name=sys val=go...
+20240519.194521.939 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_78355: sys
+20240519.194521.939 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Gr_41334: sys
+20240519.194521.939 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_220012-9: sys
+20240519.194521.939 r9999a cmdr03D7 OLoc     0928 event for loco Diesel_212225-7: sys
+20240519.194521.939 r9999a cmdr03D7 OLoc     0928 event for loco ICE_402022-8: sys
+20240519.194521.939 r9999a cmdr03D7 OLoc     0928 event for loco Dampf_Kl_89066: sys
+20240519.194521.939 r9999a cmdr03D7 OWeather 0117 event for weather : sys go
+20240519.194521.986 r9999c rcanread CBUS     0882 power ON
+20240519.194524.596 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_212225-7" V="10" fn="false" dir="false" V_hint="min" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194524.612 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8298
+20240519.194524.612 r9999a Diesel_2 OLoc     1996 V_hint: [min][0 maxkmh] = 10 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.194524.612 r9999a Diesel_2 OLoc     2033 check function event (curV=100 drvV=10)
+20240519.194524.612 r9999a Diesel_2 OLoc     2311 Sending command...V=10 dir=rev secaddr=false
+20240519.194524.612 r9999c 00003B28 CBUS     1531 loco 0:16 session=2 speed=12 dir=reverse lights=off
+20240519.194608.545 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_212225-7" V="100" fn="false" dir="false" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194608.592 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8700
+20240519.194608.592 r9999a Diesel_2 OLoc     1996 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.194608.592 r9999a Diesel_2 OLoc     2033 check function event (curV=10 drvV=100)
+20240519.194608.592 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=rev secaddr=false
+20240519.194608.592 r9999c 00003B28 CBUS     1531 loco 0:16 session=2 speed=127 dir=reverse lights=off
+20240519.194608.654 r9999I 00003D64 CBUS     1282 fast clock sync 19:46 wday=0 divider=1 date=19-5 temp=20
+20240519.194610.357 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194610.388 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194610.404 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8722
+20240519.194610.404 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194610.404 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.194610.404 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.194610.419 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8723
+20240519.194610.419 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=0] lights=on -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.194610.419 r9999c 00000690 CBUS     1531 loco 0:15 session=0 speed=127 dir=forwards lights=on
+20240519.194610.419 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194610.419 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=ON
+20240519.194611.203 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Diesel_220012-9" f0="true" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194611.281 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=8731
+20240519.194611.281 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=15] [fn=1] lights=on 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.194611.281 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194611.281 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=ON
+20240519.194708.793 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.194708.793 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.194708.793 r9999c 00000B18 CBUS     1687 read CV1 of loc 15...
+20240519.194709.402 r9999I 00003D64 CBUS     1282 fast clock sync 19:47 wday=0 divider=1 date=19-5 temp=20
+20240519.194717.939 r9999I 00000B18 CBUS     1648 program type 0 for 0:0
+20240519.194717.939 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.194717.939 r9999c 00000B18 CBUS     1687 read CV1 of loc 0...
+20240519.194719.534 r9999c rcanread CBUS     0704 cv 1 has a value of 15
+20240519.194719.534 r9999I 00002018 OControl 2209 Program event 7: cv1:0=15 addr=0 type=0
+20240519.194729.994 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.194729.994 r9999c 00000B18 CBUS     1726 set CV8 of loc 15 to 8...
+20240519.194729.994 r9999c 00000B18 CBUS     1739 output 15 OFF
+20240519.194732.184 r9999I 00000B18 CBUS     1648 program type 0 for 0:15
+20240519.194732.184 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.194732.184 r9999c 00000B18 CBUS     1687 read CV1 of loc 15...
+20240519.194733.044 r9999c rcanread CBUS     0704 cv 1 has a value of 3
+20240519.194733.044 r9999I 00002018 OControl 2209 Program event 7: cv1:0=3 addr=0 type=0
+20240519.194741.673 r9999I 00000B18 CBUS     1648 program type 0 for 0:21
+20240519.194741.673 r9999c 00000B18 CBUS     1726 set CV1 of loc 21 to 21...
+20240519.194741.673 r9999c 00000B18 CBUS     1739 output 21 OFF
+20240519.194742.360 r9999c rcanread CBUS     0914 service track session 0: status=3, "Write Acknowledge"
+20240519.194742.360 r9999I 00002018 OControl 2209 Program event 7: cv1:0=-1 addr=0 type=0
+20240519.194743.579 r9999I 00000B18 CBUS     1648 program type 0 for 0:-1
+20240519.194743.579 r9999c 00000B18 CBUS     1668 get CV1 on PT...
+20240519.194743.579 r9999c 00000B18 CBUS     1687 read CV1 of loc -1...
+20240519.194745.548 r9999c rcanread CBUS     0704 cv 1 has a value of 21
+20240519.194745.548 r9999I 00002018 OControl 2209 Program event 7: cv1:0=21 addr=0 type=0
+20240519.194809.040 r9999a cmdr03D7 OModel   2738 model: modify
+20240519.194809.040 r9999I cmdr03D7 OModel   0810 adding lc Neu...
+20240519.194809.057 r9999I cmdr03D7 OLoc     7518 no restore wanted: reset speed for loco [Neu]
+20240519.194809.057 r9999I cmdr03D7 OLoc     7522 no restore wanted: reset functions for loco [Neu]
+20240519.194809.057 r9999I cmdr03D7 OLib     0038 rocs_lib_load OK [C:\Program Files\Rocrail\bin\./lcdriver.dll]
+20240519.194809.057 r9999I cmdr03D7 OLib     0052 rocs_lib_getProc OK [C:\Program Files\Rocrail\bin\./lcdriver.dll:rocGetLcDrInt]
+20240519.194809.057 r9999I 00000B18 OLcDrive 1018 LcDriver 2.1.0 loaded for Neu
+20240519.194809.057 r9999I cmdr03D7 OLoc     6156 show loco [Neu]
+20240519.194809.072 r9999I cmdr03D7 OModel   1121 new item added lc Neu
+20240519.194809.572 r9999I Neu      OLoc     3012 Runner for "Neu" started.
+20240519.194809.978 r9999I 00003D64 CBUS     1282 fast clock sync 19:48 wday=0 divider=1 date=19-5 temp=20
+20240519.194810.431 r9999a cmdr03D7 OModel   2738 model: modify
+20240519.194810.431 r9999I cmdr03D7 OLoc     6277 modify: Neu consist=""
+20240519.194814.043 r9999a cmdr03D7 OLoc     5377 <lc id="Neu" V="100" fn="false" dir="true" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194814.058 r9999a Neu      OLoc     3084 new message 117:command nrruns=42
+20240519.194814.058 r9999a Neu      OLoc     1996 V_hint: [max][0 maxkmh] = 100 sbtDec=0 regulated=1 mode=stop bbt=0
+20240519.194814.058 r9999a Neu      OLoc     2033 check function event (curV=0 drvV=100)
+20240519.194814.058 r9999a Neu      OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194814.058 r9999I 000029C0 CBUS     0254 request session for address 21
+20240519.194814.058 r9999I 000029C0 CBUS     0305 slot created for Neu
+20240519.194814.058 r9999c 000029C0 CBUS     1531 loco 0:21 session=0 speed=127 dir=forwards lights=off
+20240519.194814.105 r9999I rcanread CBUS     0102 slot found for Neu by address 21
+20240519.194814.105 r9999I rcanread CBUS     0493 update slot for session 3, loco Neu
+20240519.194814.105 r9999I rcanread CBUS     0517 set engine speed steps to 28 for loco Neu
+20240519.194814.105 r9999c rcanread CBUS     0142 update functions(0x00) in group 1 for loco Neu
+20240519.194814.105 r9999c rcanread CBUS     0375 update function 0 in group 0 for loco Neu
+20240519.194814.105 r9999a 00002018 OModel   6119 get loco/car by address GC1e:21
+20240519.194814.105 r9999a 00002018 OModel   6133 loco event for [Neu]
+20240519.194814.105 r9999a 00002018 OLoc     0928 event for loco Neu: fn
+20240519.194814.121 r9999c rcanqueu CBUS     1135 got session nr 3: sending frame for Neu
+20240519.194814.121 r9999a 00002018 OModel   6119 get loco/car by address GC1e:21
+20240519.194814.121 r9999a 00002018 OModel   6133 loco event for [Neu]
+20240519.194814.121 r9999a 00002018 OLoc     0928 event for loco Neu: fn
+20240519.194814.121 r9999c rcanread CBUS     0142 update functions(0x00) in group 2 for loco Neu
+20240519.194814.121 r9999a 00002018 OModel   6119 get loco/car by address GC1e:21
+20240519.194814.121 r9999a 00002018 OModel   6133 loco event for [Neu]
+20240519.194814.121 r9999a 00002018 OLoc     0928 event for loco Neu: fn
+20240519.194814.121 r9999c rcanread CBUS     0142 update functions(0x00) in group 3 for loco Neu
+20240519.194814.121 r9999a 00002018 OModel   6119 get loco/car by address GC1e:21
+20240519.194814.121 r9999a 00002018 OModel   6133 loco event for [Neu]
+20240519.194814.121 r9999a 00002018 OLoc     0928 event for loco Neu: fn
+20240519.194814.589 r9999a cmdr03D7 OLoc     5377 <lc id="Neu" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194814.621 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Neu" f0="true" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194814.714 r9999a Neu      OLoc     3084 new message 117:command nrruns=48
+20240519.194814.714 r9999a Neu      OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194814.714 r9999c 000029C0 CBUS     1531 loco 0:21 session=3 speed=127 dir=forwards lights=on
+20240519.194814.714 r9999a Neu      OLoc     3146 more messages available...
+20240519.194814.730 r9999a Neu      OLoc     3084 new message 117:command nrruns=49
+20240519.194814.730 r9999I Neu      OLoc     1864 lc=Neu [addr=21] [fn=0] lights=on -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.194814.730 r9999c 000029C0 CBUS     1531 loco 0:21 session=3 speed=127 dir=forwards lights=on
+20240519.194814.730 r9999a Neu      OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194814.730 r9999c 000029C0 CBUS     1599 loco session=3 fn=0 state=ON
+20240519.194814.981 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="true" fncnt="4" id="Neu" f0="true" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.194815.043 r9999a Neu      OLoc     3084 new message 117:command nrruns=52
+20240519.194815.043 r9999I Neu      OLoc     1864 lc=Neu [addr=21] [fn=1] lights=on 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.194815.043 r9999a Neu      OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.194815.043 r9999c 000029C0 CBUS     1599 loco session=3 fn=1 state=ON
+20240519.194910.447 r9999a cmdr03D7 OModel   2738 model: remove
+20240519.194910.447 r9999I cmdr03D7 OModel   3022 remove 1 items
+20240519.194910.511 r9999I Neu      OLoc     3307 Runner for loco [Neu] ended. gotoblock=[-]
+20240519.194910.667 r9999I 00003D64 CBUS     1282 fast clock sync 19:49 wday=0 divider=1 date=19-5 temp=20
+20240519.194916.778 r9999a cmdr03D7 OModel   2738 model: modify
+20240519.194916.778 r9999W cmdr03D7 OLoc     6265 address changed for [Diesel_220012-9] from 15 into 21
+20240519.194916.778 r9999I cmdr03D7 OLoc     6277 modify: Diesel_220012-9 consist=""
+20240519.194916.778 r9999I cmdr03D7 OLoc     6273 modify: Diesel_220012-9 destblockid=""
+20240519.194916.778 r9999I cmdr03D7 OLoc     6269 modify: Diesel_220012-9 blockid="" ()
+20240519.194923.076 r9999a cmdr03D7 OModel   2738 model: modify
+20240519.194923.076 r9999I cmdr03D7 OLoc     6277 modify: Diesel_220012-9 consist=""
+20240519.194923.076 r9999I cmdr03D7 OLoc     6273 modify: Diesel_220012-9 destblockid=""
+20240519.194923.076 r9999I cmdr03D7 OLoc     6269 modify: Diesel_220012-9 blockid="" ()
+20240519.195001.184 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="0" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195001.263 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10833
+20240519.195001.263 r9999a Diesel_2 OLoc     2033 check function event (curV=100 drvV=0)
+20240519.195001.263 r9999a Diesel_2 OLoc     2311 Sending command...V=0 dir=fwd secaddr=false
+20240519.195001.263 r9999c 00000690 CBUS     1531 loco 0:21 session=0 speed=0 dir=forwards lights=on
+20240519.195002.560 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195002.576 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10845
+20240519.195002.576 r9999a Diesel_2 OLoc     2033 check function event (curV=0 drvV=100)
+20240519.195002.576 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.195002.576 r9999c 00000690 CBUS     1531 loco 0:21 session=0 speed=127 dir=forwards lights=on
+20240519.195003.076 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195003.123 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10850
+20240519.195003.123 r9999a Diesel_2 OLoc     2006 ignore cmd because there is no diff "max" == 100
+20240519.195003.607 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="false" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195003.623 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="false" f1="true" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195003.670 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10855
+20240519.195003.670 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.195003.670 r9999c 00000690 CBUS     1531 loco 0:21 session=0 speed=127 dir=forwards lights=off
+20240519.195003.670 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.195003.686 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10856
+20240519.195003.686 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=21] [fn=0] lights=off 01 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.195003.686 r9999c 00000690 CBUS     1531 loco 0:21 session=0 speed=127 dir=forwards lights=off
+20240519.195003.686 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.195003.686 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=OFF
+20240519.195004.030 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="1" fndesc="F1" fnchangedstate="false" fncnt="4" id="Diesel_220012-9" f0="false" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195004.124 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10860
+20240519.195004.124 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=21] [fn=1] lights=off -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.195004.124 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.195004.124 r9999c 00000690 CBUS     1599 loco session=0 fn=1 state=OFF
+20240519.195004.906 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195004.937 r9999a cmdr03D7 OLoc     5377 <fn shift="false" longclick="false" group="1" fnchanged="0" fncnt="4" id="Diesel_220012-9" f0="true" f1="false" f2="false" f3="false" f4="false" f5="false" f6="false" f7="false" f8="false" f9="false" f10="false" f11="false" f12="false" f13="false" f14="false" f15="false" f16="false" f17="false" f18="false" f19="false" f20="false" f21="false" f22="false" f23="false" f24="false" f25="false" f26="false" f27="false" f28="false" f29="false" f30="false" f31="false" f32="false" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195005.000 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10868
+20240519.195005.000 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.195005.000 r9999c 00000690 CBUS     1531 loco 0:21 session=0 speed=127 dir=forwards lights=on
+20240519.195005.000 r9999a Diesel_2 OLoc     3146 more messages available...
+20240519.195005.031 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10869
+20240519.195005.031 r9999I Diesel_2 OLoc     1864 lc=Diesel_220012-9 [addr=21] [fn=0] lights=on -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20240519.195005.031 r9999c 00000690 CBUS     1531 loco 0:21 session=0 speed=127 dir=forwards lights=on
+20240519.195005.031 r9999a Diesel_2 OLoc     2311 Sending command...V=100 dir=fwd secaddr=false
+20240519.195005.031 r9999c 00000690 CBUS     1599 loco session=0 fn=0 state=ON
+20240519.195005.641 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195005.672 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10875
+20240519.195005.672 r9999a Diesel_2 OLoc     2006 ignore cmd because there is no diff "max" == 100
+20240519.195006.048 r9999a cmdr03D7 OLoc     5377 <lc id="Diesel_220012-9" V="100" fn="true" dir="true" V_hint="max" throttleid="rv1388" controlcode="" slavecode="" actor="user" server="infw03D763F4"/>
+
+20240519.195006.110 r9999a Diesel_2 OLoc     3084 new message 117:command nrruns=10879
+20240519.195006.110 r9999a Diesel_2 OLoc     2006 ignore cmd because there is no diff "max" == 100
+20240519.195011.223 r9999I 00003D64 CBUS     1282 fast clock sync 19:50 wday=0 divider=1 date=19-5 temp=20
+20240519.195111.905 r9999I 00003D64 CBUS     1282 fast clock sync 19:51 wday=0 divider=1 date=19-5 temp=20
+20240519.195212.314 r9999I 00003D64 CBUS     1282 fast clock sync 19:52 wday=0 divider=1 date=19-5 temp=20
+20240519.195313.077 r9999I 00003D64 CBUS     1282 fast clock sync 19:53 wday=0 divider=1 date=19-5 temp=20
+20240519.195413.840 r9999I 00003D64 CBUS     1282 fast clock sync 19:54 wday=0 divider=1 date=19-5 temp=20
+20240519.195514.529 r9999I 00003D64 CBUS     1282 fast clock sync 19:55 wday=0 divider=1 date=19-5 temp=20
+20240519.195615.230 r9999I 00003D64 CBUS     1282 fast clock sync 19:56 wday=0 divider=1 date=19-5 temp=20
+20240519.195716.040 r9999I 00003D64 CBUS     1282 fast clock sync 19:57 wday=0 divider=1 date=19-5 temp=20
+20240519.195816.678 r9999I 00003D64 CBUS     1282 fast clock sync 19:58 wday=0 divider=1 date=19-5 temp=20
+20240519.195917.493 r9999I 00003D64 CBUS     1282 fast clock sync 19:59 wday=0 divider=1 date=19-5 temp=20
+20240519.200018.089 r9999I 00003D64 CBUS     1282 fast clock sync 20:00 wday=0 divider=1 date=19-5 temp=20
+20240519.200109.651 r9999a cmdr03D7 OModel   2738 model: plantitle
+20240519.200109.651 r9999I cmdr03D7 OModel   2926 save notes...
+20240519.200109.683 r9999a cmdr03D7 OModel   2738 model: save
+20240519.200109.683 r9999s cmdr03D7 OModel   3585 Saving plan [plan.xml]...
+20240519.200109.698 r9999I cmdr03D7 OModel   3634 Serialized Plan=90604
+20240519.200109.698 r9999I cmdr03D7 OModel   0357 backup plan.xml to backup\20240519200109698-plan.xml
+20240519.200109.698 r9999I cmdr03D7 OModel   0390 90604 bytes saved in plan.xml.
+20240519.200109.698 r9999s cmdr03D7 OModel   3639 Plan file saved.
+20240519.200110.721 r9999a cmdr03D7 OModel   2738 model: plantitle
+20240519.200110.721 r9999I cmdr03D7 OModel   2926 save notes...

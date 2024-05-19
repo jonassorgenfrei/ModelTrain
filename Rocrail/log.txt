@@ -18,8 +18,8 @@
         ip =
        mac = D41B81D3B5800000
       guid = D41B81D3B58020230410185742456000
-       pwd = C:\Users\J³rgen\Documents\Rocrail
-      args = OCmdLn: key=-l value=C:\Program Files\Rocrail\bin, key=-w value=C:\Users\J³rgen\Documents\Rocrail,
+       pwd = C:\Users\Jürgen\Documents\ModelTrain\Rocrail
+      args = OCmdLn: key=-l value=C:\Program Files\Rocrail\bin, key=-w value=C:\Users\Jürgen\Documents\ModelTrain\Rocrail,
 --------------------------------------------------
 20230410.185742.487 r9999I main     OSystem  0612 no key
 ************************************************************************
