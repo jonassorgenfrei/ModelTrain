@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<plan rocrailversion="2.0.999-11154" rocrailpwd="/home/eisenbahn/rocrail" donkey="false" healthy="true" title="Wiesengrund">
-  <zlevel title="Level 0"/>
-  <boosterlist/>
-  <lightctrl/>
-  <tklist>
-    <tk type="curve" ori="west" id="tk20160516160058840" x="21" y="12" z="0"/>
-  </tklist>
-</plan>
